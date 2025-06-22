@@ -1,0 +1,29 @@
+{
+  "rss_list": {
+    "NHK": [
+      "https://www.nhk.or.jp/rss/news/cat4.xml",
+      "https://www.nhk.or.jp/rss/news/cat5.xml",
+      "https://www.nhk.or.jp/rss/news/cat6.xml"
+    ],
+    "朝日新聞": [
+      "https://www.asahi.com/rss/asahi/politics.rdf",
+      "https://www.asahi.com/rss/asahi/business.rdf",
+      "https://www.asahi.com/rss/asahi/international.rdf"
+    ],
+    "日経新聞": [
+      "https://assets.wor.jp/rss/rdf/nikkei/economy.rdf",
+      "https://assets.wor.jp/rss/rdf/nikkei/business.rdf",
+      "https://assets.wor.jp/rss/rdf/nikkei/international.rdf"
+    ],
+    "産経新聞": [
+      "https://assets.wor.jp/rss/rdf/sankei/economy.rdf",
+      "https://assets.wor.jp/rss/rdf/sankei/world.rdf"
+    ],
+    "ブルームバーグ": [
+      "https://assets.wor.jp/rss/rdf/bloomberg/top.rdf",
+      "https://assets.wor.jp/rss/rdf/bloomberg/economy.rdf",
+      "https://assets.wor.jp/rss/rdf/bloomberg/overseas.rdf",
+      "https://assets.wor.jp/rss/rdf/bloomberg/domestic.rdf"
+    ]
+  }
+}

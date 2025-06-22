@@ -1,0 +1,588 @@
+yarn run v1.22.19
+$ ts-node src/index.ts
+RSS Fetcher Started
+Fetching: https://www.nhk.or.jp/rss/news/cat4.xml
+都議選 あす投票 各党党首ら最後の訴え, http://www3.nhk.or.jp/news/html/20250621/k10014840711000.html, Sat, 21 Jun 2025 19:29:36 +0900
+ガソリン税の暫定税率廃止法案は廃案へ 国会は事実上閉会, http://www3.nhk.or.jp/news/html/20250621/k10014840431000.html, Sat, 21 Jun 2025 19:11:23 +0900
+赤澤経済再生相 “米関税措置 日米交渉まとまれば経済発展に”, http://www3.nhk.or.jp/news/html/20250621/k10014840951000.html, Sat, 21 Jun 2025 19:06:50 +0900
+都議選 期日前投票は125万人あまり 前回より26％増, http://www3.nhk.or.jp/news/html/20250621/k10014840941000.html, Sat, 21 Jun 2025 18:54:11 +0900
+野党4党 参院財金委員長の解任決議案を提出も本会議には諮らず, http://www3.nhk.or.jp/news/html/20250621/k10014840831000.html, Sat, 21 Jun 2025 17:31:02 +0900
+分析！投票先 SNSで決める!? 思わぬ注意点も 都議選 参院選は, http://www3.nhk.or.jp/news/html/20250621/k10014839731000.html, Sat, 21 Jun 2025 15:35:04 +0900
+米関税措置 政府 日米首脳会談の内容を分析 戦略練り直す方針, http://www3.nhk.or.jp/news/html/20250621/k10014840441000.html, Sat, 21 Jun 2025 05:12:05 +0900
+外務省 OSAで今年度8か国にドローンなど提供へ調整, http://www3.nhk.or.jp/news/html/20250621/k10014840451000.html, Sat, 21 Jun 2025 05:05:51 +0900
+LNGの国際会議 武藤経産相 安定確保へ各国の協力を呼びかけ, http://www3.nhk.or.jp/news/html/20250620/k10014840401000.html, Fri, 20 Jun 2025 21:16:01 +0900
+小泉農相 精米の“歩留まり”調査へ コメ流通量より正確に把握, http://www3.nhk.or.jp/news/html/20250620/k10014840391000.html, Fri, 20 Jun 2025 21:12:36 +0900
+小泉農相 JA幹部とコメの概算金の仕組み見直し検討で一致, http://www3.nhk.or.jp/news/html/20250620/k10014840071000.html, Fri, 20 Jun 2025 21:10:29 +0900
+企業・団体献金めぐる法案採決見送り「引き続き取り組むべき」, http://www3.nhk.or.jp/news/html/20250620/k10014839881000.html, Fri, 20 Jun 2025 20:05:44 +0900
+野党提出ガソリン税暫定税率廃止法案 参院審議入り 成立困難か, http://www3.nhk.or.jp/news/html/20250620/k10014839801000.html, Fri, 20 Jun 2025 20:02:39 +0900
+無所属 鈴木宗男議員が議員辞職, http://www3.nhk.or.jp/news/html/20250620/k10014840291000.html, Fri, 20 Jun 2025 18:49:26 +0900
+自民 旧二階派が正式解散 政治資金パーティーめぐる問題で, http://www3.nhk.or.jp/news/html/20250620/k10014840221000.html, Fri, 20 Jun 2025 17:57:15 +0900
+皇位継承 額賀衆院議長 “秋の臨時国会に向け各党と合意形成”, http://www3.nhk.or.jp/news/html/20250620/k10014840181000.html, Fri, 20 Jun 2025 17:38:09 +0900
+小泉農相 加工用輸入米の買い入れ前倒し 備蓄米の不足に備えて, http://www3.nhk.or.jp/news/html/20250620/k10014839921000.html, Fri, 20 Jun 2025 16:36:30 +0900
+選挙とフェイク情報 SNS投稿分析で見えてきた「パターン」とは, http://www3.nhk.or.jp/news/html/20250619/k10014834281000.html, Fri, 20 Jun 2025 16:34:13 +0900
+小泉農相 経済同友会 新浪代表幹事に農業発展へ協力呼びかけ, http://www3.nhk.or.jp/news/html/20250620/k10014839951000.html, Fri, 20 Jun 2025 13:15:43 +0900
+赤澤経済再生相 “中東情勢 日米の関税交渉に影響の可能性”, http://www3.nhk.or.jp/news/html/20250620/k10014839961000.html, Fri, 20 Jun 2025 13:07:02 +0900
+石破首相 NATO首脳会議出席へ 24日から3日間オランダで, http://www3.nhk.or.jp/news/html/20250620/k10014839861000.html, Fri, 20 Jun 2025 11:49:54 +0900
+「国家サイバー統括室」7月1日発足を閣議決定, http://www3.nhk.or.jp/news/html/20250620/k10014839811000.html, Fri, 20 Jun 2025 11:48:25 +0900
+ガソリン価格 激変緩和措置 “いつまでも続けるものではない”, http://www3.nhk.or.jp/news/html/20250620/k10014839841000.html, Fri, 20 Jun 2025 11:40:31 +0900
+来年度からの震災復興方針決定 事業規模5年で1兆9000億円程度, http://www3.nhk.or.jp/news/html/20250620/k10014839741000.html, Fri, 20 Jun 2025 11:22:58 +0900
+石破首相動静 2025年6月19日, http://www3.nhk.or.jp/news/html/20250620/k10014839711000.html, Fri, 20 Jun 2025 09:18:50 +0900
+国会最終盤 内閣不信任案提出されず 参院選 事実上の選挙戦へ, http://www3.nhk.or.jp/news/html/20250620/k10014839521000.html, Fri, 20 Jun 2025 05:36:50 +0900
+政府 米との関税交渉 可能なかぎり早期合意目指す方針, http://www3.nhk.or.jp/news/html/20250620/k10014839531000.html, Fri, 20 Jun 2025 05:17:07 +0900
+石破首相 ドイツ大統領と会談 安全保障分野の協力強化を確認, http://www3.nhk.or.jp/news/html/20250619/k10014839561000.html, Thu, 19 Jun 2025 23:24:18 +0900
+立民 野田代表 内閣不信任案の提出見送り表明, http://www3.nhk.or.jp/news/html/20250619/k10014839161000.html, Thu, 19 Jun 2025 21:10:20 +0900
+政府 ガソリン価格補助 26日から予防的な激変緩和措置を導入, http://www3.nhk.or.jp/news/html/20250619/k10014839351000.html, Thu, 19 Jun 2025 20:49:54 +0900
+日韓国交正常化60年 石破首相 “協力のすそ野広げたい”, http://www3.nhk.or.jp/news/html/20250619/k10014839401000.html, Thu, 19 Jun 2025 20:34:14 +0900
+立民 企業・団体献金の扱い“結論の時期明示を” 自民に求める, http://www3.nhk.or.jp/news/html/20250619/k10014839381000.html, Thu, 19 Jun 2025 19:31:48 +0900
+石破首相 米関税措置“国益守りながら臨む” 与野党に協力要請, http://www3.nhk.or.jp/news/html/20250619/k10014838981000.html, Thu, 19 Jun 2025 19:12:54 +0900
+自民 “2030年度に約100万円の賃金増加を目指す”, http://www3.nhk.or.jp/news/html/20250619/k10014838891000.html, Thu, 19 Jun 2025 18:28:24 +0900
+野党7党が提出のガソリン税暫定税率廃止法案 きょう審議入り, http://www3.nhk.or.jp/news/html/20250619/k10014838881000.html, Thu, 19 Jun 2025 17:47:19 +0900
+“憲法改正の国民投票 偽情報対策の検討を” 衆院憲法審査会, http://www3.nhk.or.jp/news/html/20250619/k10014839211000.html, Thu, 19 Jun 2025 17:45:07 +0900
+イスラエル・イランで政府による日本人の国外退避支援始まる, http://www3.nhk.or.jp/news/html/20250619/k10014838851000.html, Thu, 19 Jun 2025 17:39:55 +0900
+沖縄 石垣 中山市長への不信任決議案が可決 “辞職か失職へ”, http://www3.nhk.or.jp/news/html/20250619/k10014839121000.html, Thu, 19 Jun 2025 16:15:57 +0900
+赤澤経済再生相“相互関税一時停止期限も念頭に交渉重ねたい”, http://www3.nhk.or.jp/news/html/20250619/k10014839071000.html, Thu, 19 Jun 2025 14:56:13 +0900
+選択的夫婦別姓 野党側が提出の3法案 与野党 結論先送りに, http://www3.nhk.or.jp/news/html/20250619/k10014839061000.html, Thu, 19 Jun 2025 14:49:35 +0900
+石破首相 “エネルギー安定供給に万全を” 中東情勢受け指示, http://www3.nhk.or.jp/news/html/20250619/k10014838871000.html, Thu, 19 Jun 2025 11:14:03 +0900
+石破首相動静 2025年6月18日, http://www3.nhk.or.jp/news/html/20250619/k10014838821000.html, Thu, 19 Jun 2025 10:09:36 +0900
+立民 野田代表 内閣不信任決議案取り扱い あす表明で調整へ, http://www3.nhk.or.jp/news/html/20250619/k10014838531000.html, Thu, 19 Jun 2025 06:15:37 +0900
+「令和臨調」参院選 各党公約は個別政策でなく政策の体系を, http://www3.nhk.or.jp/news/html/20250619/k10014838391000.html, Thu, 19 Jun 2025 05:46:50 +0900
+石破首相が帰国 米関税措置めぐる日米交渉 今後の戦略練り直し, http://www3.nhk.or.jp/news/html/20250618/k10014838521000.html, Thu, 19 Jun 2025 05:28:51 +0900
+政府 イスラエルとイランの日本人退避に備え 自衛隊機を待機へ, http://www3.nhk.or.jp/news/html/20250619/k10014838661000.html, Thu, 19 Jun 2025 04:59:59 +0900
+自民 麻生氏と岸田氏が会談 石破首相の政権運営など意見交わす, http://www3.nhk.or.jp/news/html/20250619/k10014838751000.html, Thu, 19 Jun 2025 01:16:44 +0900
+社民 “物価高から生活守る 食料品の消費税率 即時ゼロ％に”, http://www3.nhk.or.jp/news/html/20250618/k10014838471000.html, Wed, 18 Jun 2025 20:42:46 +0900
+選択的夫婦別姓 野党提出の3法案 今国会採決見送り継続審議へ, http://www3.nhk.or.jp/news/html/20250618/k10014838481000.html, Wed, 18 Jun 2025 20:38:23 +0900
+“仮病”で議会欠席し万博へ 藤井寺市議の辞職勧告案可決 大阪, http://www3.nhk.or.jp/news/html/20250618/k10014838451000.html, Wed, 18 Jun 2025 19:50:28 +0900
+小泉農相 備蓄米売り渡し 外食 中食 給食事業者にも対象拡大へ, http://www3.nhk.or.jp/news/html/20250618/k10014838271000.html, Wed, 18 Jun 2025 19:21:20 +0900
+衆院財務金融委員長の解任案可決 現憲法下で衆議院では初, http://www3.nhk.or.jp/news/html/20250618/k10014838031000.html, Wed, 18 Jun 2025 19:11:31 +0900
+改正 ギャンブル依存症対策基本法が可決 成立 参院本会議, http://www3.nhk.or.jp/news/html/20250618/k10014838261000.html, Wed, 18 Jun 2025 17:32:38 +0900
+参院選挙区 “合区 3年後までに解消を” 各会派協議会が報告書, http://www3.nhk.or.jp/news/html/20250618/k10014838281000.html, Wed, 18 Jun 2025 17:11:05 +0900
+都議選 各党の公約は？告示日の演説で最も時間を割いたのは？, http://www3.nhk.or.jp/news/html/20250618/k10014838001000.html, Wed, 18 Jun 2025 15:14:05 +0900
+石破首相 G7サミットなど一連の日程終え 帰国へ, http://www3.nhk.or.jp/news/html/20250618/k10014838041000.html, Wed, 18 Jun 2025 14:21:35 +0900
+「フィルターバブル」と「アテンションエコノミー」に注意, http://www3.nhk.or.jp/news/html/20250618/k10014834271000.html, Wed, 18 Jun 2025 13:45:23 +0900
+日韓首脳会談 石破首相とイ・ジェミョン大統領 対面では初, http://www3.nhk.or.jp/news/html/20250618/k10014837981000.html, Wed, 18 Jun 2025 13:23:50 +0900
+企業・団体献金 衆院特別委 与野党提出法案の今国会採決見送り, http://www3.nhk.or.jp/news/html/20250618/k10014838091000.html, Wed, 18 Jun 2025 12:18:30 +0900
+石破首相“G7 イスラエル・イラン問題で共同声明 大きな成果”, http://www3.nhk.or.jp/news/html/20250618/k10014837971000.html, Wed, 18 Jun 2025 11:42:03 +0900
+石破首相動静 2025年6月17日, http://www3.nhk.or.jp/news/html/20250618/k10014837941000.html, Wed, 18 Jun 2025 08:14:27 +0900
+関税措置 日米閣僚交渉続く 貿易赤字 自動車含めた税率 焦点に, http://www3.nhk.or.jp/news/html/20250618/k10014837721000.html, Wed, 18 Jun 2025 05:22:12 +0900
+立民 野田代表 “党首会談で関税交渉の進捗状況 説明求める”, http://www3.nhk.or.jp/news/html/20250617/k10014837761000.html, Tue, 17 Jun 2025 21:53:21 +0900
+外務省 イラン全土に最も高いレベル4の「退避勧告」, http://www3.nhk.or.jp/news/html/20250617/k10014837581000.html, Tue, 17 Jun 2025 20:57:27 +0900
+立民 小川幹事長 内閣不信任決議案 野田代表が適時適切に判断, http://www3.nhk.or.jp/news/html/20250617/k10014837591000.html, Tue, 17 Jun 2025 19:37:28 +0900
+れいわ 舩後靖彦参院議員 参院選立候補せず 政界引退を表明, http://www3.nhk.or.jp/news/html/20250617/k10014837561000.html, Tue, 17 Jun 2025 18:53:46 +0900
+野党6党 衆院財務金融委 井林委員長解任決議案提出 18日採決へ, http://www3.nhk.or.jp/news/html/20250617/k10014837221000.html, Tue, 17 Jun 2025 18:27:25 +0900
+日米首脳会談 “関税交渉 さらに協議進めることで一致”, http://www3.nhk.or.jp/news/html/20250617/k10014836971000.html, Tue, 17 Jun 2025 18:22:43 +0900
+与野党 予算委員会の基本的質疑 運用見直しで申し合わせ, http://www3.nhk.or.jp/news/html/20250617/k10014837491000.html, Tue, 17 Jun 2025 18:02:45 +0900
+国民 “実質賃金 持続的プラスになるまで消費税率一律5％に”, http://www3.nhk.or.jp/news/html/20250617/k10014837181000.html, Tue, 17 Jun 2025 17:49:49 +0900
+選択的夫婦別姓 立民 18日の採決提案も 自民と折り合わず, http://www3.nhk.or.jp/news/html/20250617/k10014837281000.html, Tue, 17 Jun 2025 15:03:48 +0900
+阿部文科相“400億円規模の予算で教員増を” 35人学級実現へ, http://www3.nhk.or.jp/news/html/20250617/k10014837361000.html, Tue, 17 Jun 2025 14:24:56 +0900
+選挙の前にたしかめて 私たちがだまされてしまうのはなぜ？, http://www3.nhk.or.jp/news/html/20250617/k10014834251000.html, Tue, 17 Jun 2025 13:20:25 +0900
+自民 森山幹事長 “会期末で衆議院解散の可能性低い”, http://www3.nhk.or.jp/news/html/20250617/k10014837321000.html, Tue, 17 Jun 2025 13:18:06 +0900
+“2万円給付 迅速で消費に回る方法の検討を”自公幹事長が確認, http://www3.nhk.or.jp/news/html/20250617/k10014837171000.html, Tue, 17 Jun 2025 13:04:25 +0900
+石破首相動静 2025年6月16日, http://www3.nhk.or.jp/news/html/20250617/k10014837071000.html, Tue, 17 Jun 2025 09:25:04 +0900
+岩屋外相 イラン外相と電話会談 最大限の自制を求める, http://www3.nhk.or.jp/news/html/20250616/k10014836821000.html, Mon, 16 Jun 2025 21:07:06 +0900
+衆院財務金融委の野党側理事ら 井林委員長に委員会の開会要求, http://www3.nhk.or.jp/news/html/20250616/k10014836751000.html, Mon, 16 Jun 2025 20:14:41 +0900
+東京都議選 台東区の期日前投票所で投票用紙誤交付のミス, http://www3.nhk.or.jp/news/html/20250616/k10014836771000.html, Mon, 16 Jun 2025 20:12:58 +0900
+石破首相 カナダ到着 G7で中東情勢など議論 日米首脳会談へ, http://www3.nhk.or.jp/news/html/20250616/k10014836421000.html, Mon, 16 Jun 2025 19:53:39 +0900
+日本学術会議の会長経験者6人 法律の成立を受け声明, http://www3.nhk.or.jp/news/html/20250616/k10014836741000.html, Mon, 16 Jun 2025 19:29:08 +0900
+【動画解説】なぜ選挙は日曜日に行われるのか？, http://www3.nhk.or.jp/news/html/20250616/k10014836551000.html, Mon, 16 Jun 2025 18:53:24 +0900
+選挙情報と向き合う5つのポイント, http://www3.nhk.or.jp/news/html/20250616/k10014834231000.html, Mon, 16 Jun 2025 13:04:37 +0900
+官房長官“2万円給付 年間の食費の消費税負担額を念頭に算出”, http://www3.nhk.or.jp/news/html/20250616/k10014836461000.html, Mon, 16 Jun 2025 12:39:05 +0900
+石破首相動静 2025年6月13日～6月15日, http://www3.nhk.or.jp/news/html/20250616/k10014836291000.html, Mon, 16 Jun 2025 11:02:16 +0900
+内閣不信任決議案 立民 他党の動向も見極めながら扱い最終判断, http://www3.nhk.or.jp/news/html/20250616/k10014836081000.html, Mon, 16 Jun 2025 05:50:06 +0900
+石破首相 G7サミットへ出発 “G7の結束確認 関税合意に努力”, http://www3.nhk.or.jp/news/html/20250615/k10014836141000.html, Sun, 15 Jun 2025 23:52:32 +0900
+作況指数などコメ関連の統計 小泉農相 16日見直しの方向性公表, http://www3.nhk.or.jp/news/html/20250615/k10014836061000.html, Sun, 15 Jun 2025 20:46:31 +0900
+東京都議選 物価高対策など党首らが訴え, http://www3.nhk.or.jp/news/html/20250615/k10014835871000.html, Sun, 15 Jun 2025 19:21:43 +0900
+小泉農相 コメの生産者らと意見交換 価格引き下げに理解求める, http://www3.nhk.or.jp/news/html/20250615/k10014836011000.html, Sun, 15 Jun 2025 18:45:02 +0900
+赤澤経済再生相 米商務長官と電話会談 合意実現へ協議, http://www3.nhk.or.jp/news/html/20250615/k10014835771000.html, Sun, 15 Jun 2025 08:56:25 +0900
+石破首相 G7サミット出席のためきょうカナダへ 日米首脳会談も, http://www3.nhk.or.jp/news/html/20250615/k10014835541000.html, Sun, 15 Jun 2025 06:09:17 +0900
+Fetching: https://www.nhk.or.jp/rss/news/cat5.xml
+大手化学メーカー株主総会 社長の再任案否決, http://www3.nhk.or.jp/news/html/20250621/k10014840891000.html, Sat, 21 Jun 2025 18:19:12 +0900
+ジャパンディスプレイ株主総会 車載向け事業の分社化など承認, http://www3.nhk.or.jp/news/html/20250621/k10014840771000.html, Sat, 21 Jun 2025 14:37:31 +0900
+アメリカの住宅着工件数 5月は5年ぶりの低水準に, http://www3.nhk.or.jp/news/html/20250621/k10014840651000.html, Sat, 21 Jun 2025 09:52:48 +0900
+“ソフトバンクG アメリカに大規模工業団地計画”米メディア, http://www3.nhk.or.jp/news/html/20250621/k10014840621000.html, Sat, 21 Jun 2025 08:00:55 +0900
+NY市場 円相場 一時1ドル＝146円台まで値下がり, http://www3.nhk.or.jp/news/html/20250621/k10014840631000.html, Sat, 21 Jun 2025 07:18:14 +0900
+小泉農相 JA幹部とコメの概算金の仕組み見直し検討で一致, http://www3.nhk.or.jp/news/html/20250620/k10014840071000.html, Fri, 20 Jun 2025 21:10:29 +0900
+財務省が「国債」の発行計画 異例の見直し なぜ?【Q＆A】, http://www3.nhk.or.jp/news/html/20250620/k10014840251000.html, Fri, 20 Jun 2025 20:32:42 +0900
+日本取引所グループCEO “株主提案 企業側は是々非々で”, http://www3.nhk.or.jp/news/html/20250620/k10014840301000.html, Fri, 20 Jun 2025 18:56:04 +0900
+随意契約の備蓄米 外食や給食事業者の購入申請 受け付け開始, http://www3.nhk.or.jp/news/html/20250620/k10014839751000.html, Fri, 20 Jun 2025 18:48:28 +0900
+繊維事業撤退の「ユニチカ」「セーレン」に一部事業売却へ, http://www3.nhk.or.jp/news/html/20250620/k10014840141000.html, Fri, 20 Jun 2025 18:37:07 +0900
+円相場 ドルに対して小幅な値動き, http://www3.nhk.or.jp/news/html/20250620/k10014840281000.html, Fri, 20 Jun 2025 18:36:36 +0900
+札幌証券取引所 国内初のESG債 専用市場を秋にも開設へ, http://www3.nhk.or.jp/news/html/20250620/k10014840261000.html, Fri, 20 Jun 2025 18:35:45 +0900
+国債買い入れのツケ 市場に忍び寄るリスク【経済コラム】, http://www3.nhk.or.jp/news/html/20250620/k10014839081000.html, Fri, 20 Jun 2025 17:45:18 +0900
+5月消費者物価指数 前年同月比3.7％上昇 「米類」前年の2倍超, http://www3.nhk.or.jp/news/html/20250620/k10014839661000.html, Fri, 20 Jun 2025 16:41:31 +0900
+小泉農相 加工用輸入米の買い入れ前倒し 備蓄米の不足に備えて, http://www3.nhk.or.jp/news/html/20250620/k10014839921000.html, Fri, 20 Jun 2025 16:36:30 +0900
+日経平均株価 小幅に値下がり, http://www3.nhk.or.jp/news/html/20250620/k10014839871000.html, Fri, 20 Jun 2025 16:12:10 +0900
+オンラインカジノ対策 “ブロッキング 有効かさらに検討を”, http://www3.nhk.or.jp/news/html/20250620/k10014840091000.html, Fri, 20 Jun 2025 16:00:25 +0900
+小泉農相 経済同友会 新浪代表幹事に農業発展へ協力呼びかけ, http://www3.nhk.or.jp/news/html/20250620/k10014839951000.html, Fri, 20 Jun 2025 13:15:43 +0900
+日銀 5月の議事要旨 “関税措置 輸出や中小企業の経営に懸念”, http://www3.nhk.or.jp/news/html/20250620/k10014839931000.html, Fri, 20 Jun 2025 12:51:43 +0900
+ガソリン価格 激変緩和措置 “いつまでも続けるものではない”, http://www3.nhk.or.jp/news/html/20250620/k10014839841000.html, Fri, 20 Jun 2025 11:40:31 +0900
+【Q＆A】コメ平均価格 農水省が新たなデータ公表 なぜ？, http://www3.nhk.or.jp/news/html/20250620/k10014839591000.html, Fri, 20 Jun 2025 05:25:08 +0900
+JA全中 損失受け 大手町のJAビル 所有フロアの売却検討, http://www3.nhk.or.jp/news/html/20250619/k10014839471000.html, Thu, 19 Jun 2025 21:38:53 +0900
+スイス 中央銀行 政策金利引き下げ0％に 約3年ぶり低水準, http://www3.nhk.or.jp/news/html/20250619/k10014839461000.html, Thu, 19 Jun 2025 21:19:31 +0900
+農水省 コメの平均販売価格 民間のデータ公表 4週連続値下がり, http://www3.nhk.or.jp/news/html/20250619/k10014839361000.html, Thu, 19 Jun 2025 20:14:57 +0900
+日本製鉄 USスチール買収完了で会見 “合理的な判断”強調, http://www3.nhk.or.jp/news/html/20250619/k10014838781000.html, Thu, 19 Jun 2025 19:24:28 +0900
+フジテレビ社長 元アナウンサーの女性に面会し謝罪, http://www3.nhk.or.jp/news/html/20250619/k10014839311000.html, Thu, 19 Jun 2025 18:40:05 +0900
+円相場 いくぶん値下がり 米FRB議長“利下げ急がず”強調受け, http://www3.nhk.or.jp/news/html/20250619/k10014839281000.html, Thu, 19 Jun 2025 18:23:15 +0900
+じもとHD 優先株への配当復活へ 国の実質的管理下から脱却, http://www3.nhk.or.jp/news/html/20250619/k10014839151000.html, Thu, 19 Jun 2025 18:08:42 +0900
+全国銀行協会 “貸金庫で現金預からない” 規定のひな型を策定, http://www3.nhk.or.jp/news/html/20250619/k10014839241000.html, Thu, 19 Jun 2025 18:06:18 +0900
+株価 値下がり 中東情勢への警戒感や利益確保の動きで, http://www3.nhk.or.jp/news/html/20250619/k10014838961000.html, Thu, 19 Jun 2025 16:09:31 +0900
+米アマゾン 今後数年間で従業員を削減へ AI導入で働き方が変化, http://www3.nhk.or.jp/news/html/20250619/k10014838841000.html, Thu, 19 Jun 2025 10:49:20 +0900
+随意契約の備蓄米 売り渡しを外食などに拡大 あす受け付け開始, http://www3.nhk.or.jp/news/html/20250619/k10014838681000.html, Thu, 19 Jun 2025 08:05:41 +0900
+米FRB 利下げを見送り 政策金利の据え置き決定 4会合連続, http://www3.nhk.or.jp/news/html/20250619/k10014838591000.html, Thu, 19 Jun 2025 08:00:27 +0900
+NYダウ 一時200ドル超上昇も FRB利下げ急がない姿勢で下落に, http://www3.nhk.or.jp/news/html/20250619/k10014838801000.html, Thu, 19 Jun 2025 06:33:13 +0900
+日本製鉄 USスチールを完全子会社化 買収完了と発表, http://www3.nhk.or.jp/news/html/20250618/k10014838631000.html, Wed, 18 Jun 2025 23:28:37 +0900
+大手バイクメーカーに小型電動バイクを投入する動き相次ぐ, http://www3.nhk.or.jp/news/html/20250618/k10014838211000.html, Wed, 18 Jun 2025 23:21:47 +0900
+5月の貿易収支 6376億円の赤字 貿易赤字は2か月連続, http://www3.nhk.or.jp/news/html/20250618/k10014837961000.html, Wed, 18 Jun 2025 19:22:03 +0900
+円相場 小幅に値下がり, http://www3.nhk.or.jp/news/html/20250618/k10014838401000.html, Wed, 18 Jun 2025 18:37:45 +0900
+5月の訪日外国人旅行者 推計369万人余 5月として最多, http://www3.nhk.or.jp/news/html/20250618/k10014838301000.html, Wed, 18 Jun 2025 18:26:15 +0900
+ガソリン価格 8週連続値下がり 中東情勢受け来週は値上がりか, http://www3.nhk.or.jp/news/html/20250618/k10014838201000.html, Wed, 18 Jun 2025 17:13:12 +0900
+イラン全土に外務省が「退避勧告」 日本企業の対応は, http://www3.nhk.or.jp/news/html/20250618/k10014838291000.html, Wed, 18 Jun 2025 16:51:32 +0900
+株価 値上がり 中東情勢緊迫化への警戒感いったん後退で, http://www3.nhk.or.jp/news/html/20250618/k10014838061000.html, Wed, 18 Jun 2025 16:34:09 +0900
+次世代エネルギー 水素普及に向けファンド活動拡大 投資相次ぐ, http://www3.nhk.or.jp/news/html/20250618/k10014837741000.html, Wed, 18 Jun 2025 05:39:00 +0900
+ホンダ 小型ロケットの離着陸実験 北海道大樹町, http://www3.nhk.or.jp/news/html/20250618/k10014837911000.html, Wed, 18 Jun 2025 05:13:17 +0900
+日銀 追加利上げ目指すも関税交渉継続で政策判断一段と難しく, http://www3.nhk.or.jp/news/html/20250618/k10014837641000.html, Wed, 18 Jun 2025 04:43:44 +0900
+財務省 超長期債の発行減額へ “短い年限の発行額増やす方向”, http://www3.nhk.or.jp/news/html/20250618/k10014837601000.html, Wed, 18 Jun 2025 04:39:41 +0900
+米関税措置「業績に悪影響」5割超 「賃上げ影響」3割 民間調査, http://www3.nhk.or.jp/news/html/20250618/k10014837681000.html, Wed, 18 Jun 2025 04:32:53 +0900
+米 5月小売業の売上高 前月比0.9％減 駆け込み需要の反動で, http://www3.nhk.or.jp/news/html/20250618/k10014837861000.html, Wed, 18 Jun 2025 00:09:58 +0900
+アップル幹部 12年ぶり刷新のスマホ基本ソフト 舞台裏明らかに, http://www3.nhk.or.jp/news/html/20250617/k10014837671000.html, Tue, 17 Jun 2025 22:32:11 +0900
+随意契約の備蓄米 販売開始は全国2万8111店に 農水省, http://www3.nhk.or.jp/news/html/20250617/k10014837651000.html, Tue, 17 Jun 2025 20:25:56 +0900
+小泉農相 コメ流通の実態把握へ 事業者に報告求める方針, http://www3.nhk.or.jp/news/html/20250617/k10014837051000.html, Tue, 17 Jun 2025 19:59:07 +0900
+日銀 植田総裁 国債減額ペース緩める措置「金利変動など配慮」, http://www3.nhk.or.jp/news/html/20250617/k10014837161000.html, Tue, 17 Jun 2025 19:20:51 +0900
+円相場 値下がり 米の景気減速の懸念後退でドルを買い戻す動き, http://www3.nhk.or.jp/news/html/20250617/k10014837531000.html, Tue, 17 Jun 2025 18:25:46 +0900
+【Q＆A】日銀が「国債買い入れ減額」ペースを緩めるのはなぜ？, http://www3.nhk.or.jp/news/html/20250617/k10014837471000.html, Tue, 17 Jun 2025 17:39:00 +0900
+日本郵便 点呼記録改ざん10万件余 千田社長の報酬減額を発表, http://www3.nhk.or.jp/news/html/20250617/k10014837151000.html, Tue, 17 Jun 2025 17:13:42 +0900
+コメの相対取引価格 2か月連続で最高値更新 前年同月比77％↑, http://www3.nhk.or.jp/news/html/20250617/k10014837481000.html, Tue, 17 Jun 2025 17:09:31 +0900
+株価 値上がり 半導体関連の銘柄を中心に買い注文広がる, http://www3.nhk.or.jp/news/html/20250617/k10014837251000.html, Tue, 17 Jun 2025 16:11:16 +0900
+セブン-イレブンで備蓄米の販売開始 大手3社すべてで販売に, http://www3.nhk.or.jp/news/html/20250617/k10014837101000.html, Tue, 17 Jun 2025 10:28:48 +0900
+トランプ氏一族の企業 携帯事業に参入 “米国製”の金色端末も, http://www3.nhk.or.jp/news/html/20250617/k10014837061000.html, Tue, 17 Jun 2025 10:10:52 +0900
+東京メトロ 列車間隔を短くできる新システム 順次導入へ, http://www3.nhk.or.jp/news/html/20250617/k10014836831000.html, Tue, 17 Jun 2025 07:11:19 +0900
+コメの輸入量が急拡大 高い関税でも採算が見込めると判断か, http://www3.nhk.or.jp/news/html/20250617/k10014836841000.html, Tue, 17 Jun 2025 06:51:46 +0900
+米FRB 利下げ見送りの見方強まる 議長の後任人事も注目, http://www3.nhk.or.jp/news/html/20250617/k10014836871000.html, Tue, 17 Jun 2025 06:33:35 +0900
+日銀 国債買い入れ減額の対応議論 政策金利は据え置きで検討か, http://www3.nhk.or.jp/news/html/20250617/k10014836931000.html, Tue, 17 Jun 2025 05:39:46 +0900
+新宿駅再開発の高層ビル 完成時期未定に 施工会社が決まらず, http://www3.nhk.or.jp/news/html/20250617/k10014836991000.html, Tue, 17 Jun 2025 05:28:31 +0900
+日本製鉄のUSスチール買収 米政府が取締役3人に大きな影響力か, http://www3.nhk.or.jp/news/html/20250617/k10014836951000.html, Tue, 17 Jun 2025 05:10:21 +0900
+コメの作柄示す「作況指数」廃止へ 農林水産省が発表, http://www3.nhk.or.jp/news/html/20250616/k10014836361000.html, Mon, 16 Jun 2025 21:50:35 +0900
+スーパーのコメ価格 3週連続値下がり 前週より48円値下がり, http://www3.nhk.or.jp/news/html/20250616/k10014836731000.html, Mon, 16 Jun 2025 20:47:20 +0900
+円相場 いくぶん値下がり 米の長期金利上昇で日米の金利差意識, http://www3.nhk.or.jp/news/html/20250616/k10014836681000.html, Mon, 16 Jun 2025 18:33:44 +0900
+「ロピア」に立ち入り検査 納入業者に不当な要求の疑い 公取委, http://www3.nhk.or.jp/news/html/20250616/k10014836381000.html, Mon, 16 Jun 2025 18:07:39 +0900
+株価 一時500円以上値上がり 円安ドル高進行で買い注文広がる, http://www3.nhk.or.jp/news/html/20250616/k10014836411000.html, Mon, 16 Jun 2025 16:06:19 +0900
+三井住友とSBIが新会社 個人向け資産運用分野でサービス強化へ, http://www3.nhk.or.jp/news/html/20250616/k10014836391000.html, Mon, 16 Jun 2025 12:04:16 +0900
+日米関税交渉で注目 “砕氷船” 建造技術は日本メーカーが強み, http://www3.nhk.or.jp/news/html/20250616/k10014836041000.html, Mon, 16 Jun 2025 07:18:56 +0900
+医療スタッフの不足をAIで 米企業 “年内に日本でも事業開始”, http://www3.nhk.or.jp/news/html/20250616/k10014836051000.html, Mon, 16 Jun 2025 06:42:55 +0900
+日本製鉄のUSスチール買収 米商務長官 “黄金株”権限を説明, http://www3.nhk.or.jp/news/html/20250616/k10014836171000.html, Mon, 16 Jun 2025 05:48:14 +0900
+エネルギー各社 アメリカ産LNGの調達拡大 関税交渉の後押しか, http://www3.nhk.or.jp/news/html/20250616/k10014836031000.html, Mon, 16 Jun 2025 05:05:57 +0900
+USスチール買収 石破首相 “計画着実に進むよう政府も努力”, http://www3.nhk.or.jp/news/html/20250616/k10014836151000.html, Mon, 16 Jun 2025 00:10:25 +0900
+小泉農相 コメの生産者らと意見交換 価格引き下げに理解求める, http://www3.nhk.or.jp/news/html/20250615/k10014836011000.html, Sun, 15 Jun 2025 18:45:02 +0900
+日本製鉄 USスチール買収 巨額投資に見合った収益生み出せるか, http://www3.nhk.or.jp/news/html/20250615/k10014835561000.html, Sun, 15 Jun 2025 07:04:39 +0900
+BYD株価急落の背景「内巻」がキーワード【中国経済コラム】, http://www3.nhk.or.jp/news/html/20250613/k10014833561000.html, Sun, 15 Jun 2025 00:31:15 +0900
+Fetching: https://www.nhk.or.jp/rss/news/cat6.xml
+フィリピンの船への中国の放水問題 海上自衛隊幹部 連帯を強調, http://www3.nhk.or.jp/news/html/20250621/k10014841021000.html, Sat, 21 Jun 2025 21:47:57 +0900
+イスラエルとイランの軍事衝突 核施設に攻撃とも 緊迫続く, http://www3.nhk.or.jp/news/html/20250621/k10014840491000.html, Sat, 21 Jun 2025 19:58:28 +0900
+プーチン大統領“ウクライナはわれわれのもの”国際会議で持論, http://www3.nhk.or.jp/news/html/20250621/k10014840931000.html, Sat, 21 Jun 2025 19:20:42 +0900
+赤澤経済再生相 “米関税措置 日米交渉まとまれば経済発展に”, http://www3.nhk.or.jp/news/html/20250621/k10014840951000.html, Sat, 21 Jun 2025 19:06:50 +0900
+パキスタン政府 トランプ大統領をノーベル平和賞に推薦決定, http://www3.nhk.or.jp/news/html/20250621/k10014840911000.html, Sat, 21 Jun 2025 18:53:17 +0900
+【随時更新】ロシア ウクライナに軍事侵攻（6月21日の動き）, http://www3.nhk.or.jp/news/html/20250621/k10014820891000.html, Sat, 21 Jun 2025 18:22:25 +0900
+中国 世界最大規模の航空ショーで国産戦闘機アピール, http://www3.nhk.or.jp/news/html/20250621/k10014840881000.html, Sat, 21 Jun 2025 18:05:19 +0900
+中国共産党の高官 香港への統制緩めない考え示す, http://www3.nhk.or.jp/news/html/20250621/k10014840861000.html, Sat, 21 Jun 2025 17:07:18 +0900
+米 イスラエルのガザ攻撃に抗議で拘束のパレスチナ系男性保釈, http://www3.nhk.or.jp/news/html/20250621/k10014840741000.html, Sat, 21 Jun 2025 11:51:25 +0900
+アメリカの住宅着工件数 5月は5年ぶりの低水準に, http://www3.nhk.or.jp/news/html/20250621/k10014840651000.html, Sat, 21 Jun 2025 09:52:48 +0900
+英で駅伝大会 薩摩藩から留学160年で鹿児島のチームも出場, http://www3.nhk.or.jp/news/html/20250621/k10014840641000.html, Sat, 21 Jun 2025 09:43:26 +0900
+プーチン大統領 “友好国と兵器の共同開発など協力進めたい”, http://www3.nhk.or.jp/news/html/20250621/k10014840541000.html, Sat, 21 Jun 2025 08:50:11 +0900
+台湾 最大野党の議員24人対象に リコールの賛否問う住民投票へ, http://www3.nhk.or.jp/news/html/20250621/k10014840561000.html, Sat, 21 Jun 2025 08:27:49 +0900
+フィリピン“南シナ海で中国海警局の船が放水銃発射”, http://www3.nhk.or.jp/news/html/20250621/k10014840551000.html, Sat, 21 Jun 2025 08:08:37 +0900
+“ソフトバンクG アメリカに大規模工業団地計画”米メディア, http://www3.nhk.or.jp/news/html/20250621/k10014840621000.html, Sat, 21 Jun 2025 08:00:55 +0900
+NY市場 円相場 一時1ドル＝146円台まで値下がり, http://www3.nhk.or.jp/news/html/20250621/k10014840631000.html, Sat, 21 Jun 2025 07:18:14 +0900
+英仏独とEU イランと核開発めぐり協議 今後の協議継続を促す, http://www3.nhk.or.jp/news/html/20250620/k10014840341000.html, Sat, 21 Jun 2025 06:15:43 +0900
+英 終末期患者が“安楽死”選ぶ権利認める法案 議会下院で可決, http://www3.nhk.or.jp/news/html/20250621/k10014840571000.html, Sat, 21 Jun 2025 05:30:21 +0900
+米関税措置 政府 日米首脳会談の内容を分析 戦略練り直す方針, http://www3.nhk.or.jp/news/html/20250621/k10014840441000.html, Sat, 21 Jun 2025 05:12:05 +0900
+外務省 OSAで今年度8か国にドローンなど提供へ調整, http://www3.nhk.or.jp/news/html/20250621/k10014840451000.html, Sat, 21 Jun 2025 05:05:51 +0900
+軍事衝突1週間 “外交的解決の用意は？”イスラエル外相に聞く, http://www3.nhk.or.jp/news/html/20250620/k10014840511000.html, Fri, 20 Jun 2025 22:49:22 +0900
+イスラエル イラン 軍事衝突1週間 さらに激化の懸念, http://www3.nhk.or.jp/news/html/20250620/k10014839571000.html, Fri, 20 Jun 2025 22:07:22 +0900
+日本 アメリカ フィリピンの海上保安機関 鹿児島湾で合同訓練, http://www3.nhk.or.jp/news/html/20250620/k10014840321000.html, Fri, 20 Jun 2025 20:20:30 +0900
+【詳細】ロシア ウクライナに軍事侵攻（6月20日の動き）, http://www3.nhk.or.jp/news/html/20250620/k10014820881000.html, Fri, 20 Jun 2025 19:36:33 +0900
+【動画】フランス ニース “犬のビーチ”にようこそ！, http://www3.nhk.or.jp/news/html/20250620/k10014840311000.html, Fri, 20 Jun 2025 19:24:00 +0900
+万博「ナショナルデー」ウルグアイ 有名ミュージシャンたちが, http://www3.nhk.or.jp/news/html/20250603/k10014823151000.html, Fri, 20 Jun 2025 18:34:01 +0900
+自衛隊の輸送機 早ければ21日出発 中東の日本人退避に備えて, http://www3.nhk.or.jp/news/html/20250620/k10014839701000.html, Fri, 20 Jun 2025 17:44:38 +0900
+トランプ大統領 “2週間以内に決断” イランと近く交渉可能性, http://www3.nhk.or.jp/news/html/20250620/k10014839631000.html, Fri, 20 Jun 2025 05:52:06 +0900
+インドネシア ロシア首脳会談 幅広い分野で協力深める姿勢示す, http://www3.nhk.or.jp/news/html/20250620/k10014839611000.html, Fri, 20 Jun 2025 05:45:15 +0900
+ロシアの国際会議 米ロ経済協力めぐる分科会 融和的姿勢反映か, http://www3.nhk.or.jp/news/html/20250620/k10014839621000.html, Fri, 20 Jun 2025 05:27:52 +0900
+プーチン大統領 ウクライナにロシア提示の覚書 受け入れ迫る, http://www3.nhk.or.jp/news/html/20250620/k10014839641000.html, Fri, 20 Jun 2025 05:22:21 +0900
+イスラエルから陸路退避 日本人と家族21人 隣国ヨルダンに到着, http://www3.nhk.or.jp/news/html/20250619/k10014839581000.html, Thu, 19 Jun 2025 23:40:02 +0900
+石破首相 ドイツ大統領と会談 安全保障分野の協力強化を確認, http://www3.nhk.or.jp/news/html/20250619/k10014839561000.html, Thu, 19 Jun 2025 23:24:18 +0900
+ユニセフ事務局次長“ガザ子どもの死傷者5万人に 支援拡大を”, http://www3.nhk.or.jp/news/html/20250619/k10014839551000.html, Thu, 19 Jun 2025 22:53:08 +0900
+プーチン大統領と習主席が電話会談 イスラエル非難 米をけん制, http://www3.nhk.or.jp/news/html/20250619/k10014839411000.html, Thu, 19 Jun 2025 22:32:29 +0900
+“イラン攻撃計画承認”米報道も トランプ氏“最終決定まだ”, http://www3.nhk.or.jp/news/html/20250619/k10014838771000.html, Thu, 19 Jun 2025 21:22:25 +0900
+スイス 中央銀行 政策金利引き下げ0％に 約3年ぶり低水準, http://www3.nhk.or.jp/news/html/20250619/k10014839461000.html, Thu, 19 Jun 2025 21:19:31 +0900
+タイ 連立政権組む「タイ名誉党」が離脱 政権運営が不透明に, http://www3.nhk.or.jp/news/html/20250619/k10014839431000.html, Thu, 19 Jun 2025 20:29:34 +0900
+ロシア軍参謀総長 ウクライナ東部訪問 成果強調するねらいか, http://www3.nhk.or.jp/news/html/20250619/k10014839391000.html, Thu, 19 Jun 2025 20:04:12 +0900
+【詳細】ロシア ウクライナに軍事侵攻（6月19日の動き）, http://www3.nhk.or.jp/news/html/20250619/k10014839031000.html, Thu, 19 Jun 2025 19:59:17 +0900
+イスラエルとイラン攻撃応酬の中 AI偽動画やゲーム映像 拡散か, http://www3.nhk.or.jp/news/html/20250619/k10014839291000.html, Thu, 19 Jun 2025 19:49:33 +0900
+北朝鮮が供与「チュチェ砲」“ロシア語のマニュアル”が存在, http://www3.nhk.or.jp/news/html/20250619/k10014838861000.html, Thu, 19 Jun 2025 19:34:17 +0900
+北朝鮮 “自走砲にロシア語マニュアル 両国の軍事協力示す”, http://www3.nhk.or.jp/news/html/20250619/k10014839341000.html, Thu, 19 Jun 2025 19:11:47 +0900
+イスラエル・イランで政府による日本人の国外退避支援始まる, http://www3.nhk.or.jp/news/html/20250619/k10014838851000.html, Thu, 19 Jun 2025 17:39:55 +0900
+赤澤経済再生相“相互関税一時停止期限も念頭に交渉重ねたい”, http://www3.nhk.or.jp/news/html/20250619/k10014839071000.html, Thu, 19 Jun 2025 14:56:13 +0900
+石破首相 “エネルギー安定供給に万全を” 中東情勢受け指示, http://www3.nhk.or.jp/news/html/20250619/k10014838871000.html, Thu, 19 Jun 2025 11:14:03 +0900
+米アマゾン 今後数年間で従業員を削減へ AI導入で働き方が変化, http://www3.nhk.or.jp/news/html/20250619/k10014838841000.html, Thu, 19 Jun 2025 10:49:20 +0900
+米政権 学生ビザの面接再開へ SNSの投稿内容 審査強化する方針, http://www3.nhk.or.jp/news/html/20250619/k10014838831000.html, Thu, 19 Jun 2025 10:06:47 +0900
+フランス議会 政府に核実験被害者への補償制度の改善を勧告, http://www3.nhk.or.jp/news/html/20250619/k10014838611000.html, Thu, 19 Jun 2025 09:14:17 +0900
+米FRB 利下げを見送り 政策金利の据え置き決定 4会合連続, http://www3.nhk.or.jp/news/html/20250619/k10014838591000.html, Thu, 19 Jun 2025 08:00:27 +0900
+ウクライナ 首都キーウ ロシア軍の攻撃で28人の死亡確認, http://www3.nhk.or.jp/news/html/20250619/k10014838601000.html, Thu, 19 Jun 2025 07:03:44 +0900
+北朝鮮 労働者にロシアで無人機の操縦を習得させる計画を検討, http://www3.nhk.or.jp/news/html/20250619/k10014838551000.html, Thu, 19 Jun 2025 06:32:19 +0900
+【Q＆A】バンカーバスターとはどんな爆弾？使用の可能性は？, http://www3.nhk.or.jp/news/html/20250618/k10014838701000.html, Wed, 18 Jun 2025 22:56:33 +0900
+「無条件降伏を」イランに圧力強めるアメリカ 軍事作戦参加は, http://www3.nhk.or.jp/news/html/20250618/k10014837991000.html, Wed, 18 Jun 2025 21:31:14 +0900
+キーウで26人死亡 ゼレンスキー大統領 G7でロシア制裁強化訴え, http://www3.nhk.or.jp/news/html/20250618/k10014838501000.html, Wed, 18 Jun 2025 20:40:47 +0900
+【詳細】ロシア ウクライナに軍事侵攻（6月18日の動き）, http://www3.nhk.or.jp/news/html/20250618/k10014810101000.html, Wed, 18 Jun 2025 20:37:19 +0900
+ロシア 大規模な国際経済会議始まる 中国やインドなど参加, http://www3.nhk.or.jp/news/html/20250618/k10014838411000.html, Wed, 18 Jun 2025 19:06:22 +0900
+イラン全土に外務省が「退避勧告」 日本企業の対応は, http://www3.nhk.or.jp/news/html/20250618/k10014838291000.html, Wed, 18 Jun 2025 16:51:32 +0900
+万博さんぽ 第3回 ルーマニア館で伝統の踊りや工芸を体験, http://www3.nhk.or.jp/news/html/20250618/k10014822101000.html, Wed, 18 Jun 2025 16:40:04 +0900
+G7サミット閉幕 急きょ帰国トランプ氏 影響力印象づけられる形, http://www3.nhk.or.jp/news/html/20250618/k10014837801000.html, Wed, 18 Jun 2025 15:17:42 +0900
+石破首相 G7サミットなど一連の日程終え 帰国へ, http://www3.nhk.or.jp/news/html/20250618/k10014838041000.html, Wed, 18 Jun 2025 14:21:35 +0900
+日韓首脳会談 石破首相とイ・ジェミョン大統領 対面では初, http://www3.nhk.or.jp/news/html/20250618/k10014837981000.html, Wed, 18 Jun 2025 13:23:50 +0900
+石破首相“G7 イスラエル・イラン問題で共同声明 大きな成果”, http://www3.nhk.or.jp/news/html/20250618/k10014837971000.html, Wed, 18 Jun 2025 11:42:03 +0900
+LA中心部の外出禁止令が解除 事態収束に向かうかは不透明, http://www3.nhk.or.jp/news/html/20250618/k10014837951000.html, Wed, 18 Jun 2025 08:43:29 +0900
+トランプ大統領 NSCの開催明らかに イラン イスラエル対応か, http://www3.nhk.or.jp/news/html/20250618/k10014837921000.html, Wed, 18 Jun 2025 07:52:37 +0900
+イスラエル国防相 今後もイラン核施設への攻撃を示唆, http://www3.nhk.or.jp/news/html/20250618/k10014837791000.html, Wed, 18 Jun 2025 05:20:58 +0900
+中国 習主席 中東情勢安定に向け “建設的な役割果たす用意”, http://www3.nhk.or.jp/news/html/20250618/k10014837771000.html, Wed, 18 Jun 2025 05:19:52 +0900
+ロシアで国際経済フォーラム開催へ 制裁続ける欧米に対抗か, http://www3.nhk.or.jp/news/html/20250618/k10014837781000.html, Wed, 18 Jun 2025 05:19:00 +0900
+防衛省 日本周辺で活動の中国海軍空母2隻の詳細航路を公表, http://www3.nhk.or.jp/news/html/20250618/k10014837901000.html, Wed, 18 Jun 2025 05:11:31 +0900
+インドネシアで大規模噴火 気象庁「日本への津波の影響なし」, http://www3.nhk.or.jp/news/html/20250617/k10014837611000.html, Wed, 18 Jun 2025 00:38:56 +0900
+米 5月小売業の売上高 前月比0.9％減 駆け込み需要の反動で, http://www3.nhk.or.jp/news/html/20250618/k10014837861000.html, Wed, 18 Jun 2025 00:09:58 +0900
+“北朝鮮 ロシア西部に工兵6000人派遣へ” ロシア ショイグ氏, http://www3.nhk.or.jp/news/html/20250617/k10014837851000.html, Tue, 17 Jun 2025 23:14:48 +0900
+アップル幹部 12年ぶり刷新のスマホ基本ソフト 舞台裏明らかに, http://www3.nhk.or.jp/news/html/20250617/k10014837671000.html, Tue, 17 Jun 2025 22:32:11 +0900
+トランプ大統領 G7サミット切り上げ帰国 NSCの招集指示か, http://www3.nhk.or.jp/news/html/20250617/k10014837041000.html, Tue, 17 Jun 2025 21:27:40 +0900
+台湾 企業開発の無人艇 試験航行を披露“軍と民間企業連携を”, http://www3.nhk.or.jp/news/html/20250617/k10014837691000.html, Tue, 17 Jun 2025 21:02:38 +0900
+外務省 イラン全土に最も高いレベル4の「退避勧告」, http://www3.nhk.or.jp/news/html/20250617/k10014837581000.html, Tue, 17 Jun 2025 20:57:27 +0900
+イスラエルがイラン国営放送局攻撃 イラン“全面戦争の準備”, http://www3.nhk.or.jp/news/html/20250616/k10014836911000.html, Tue, 17 Jun 2025 20:56:13 +0900
+日本被団協 イスラエルとイランの軍事衝突受け声明発表, http://www3.nhk.or.jp/news/html/20250617/k10014837631000.html, Tue, 17 Jun 2025 20:14:05 +0900
+G7サミット 最終日 トランプ大統領不在でウクライナ情勢議論へ, http://www3.nhk.or.jp/news/html/20250617/k10014837621000.html, Tue, 17 Jun 2025 20:13:19 +0900
+ウクライナ首都 弾道ミサイルなどの攻撃で14人死亡100人超けが, http://www3.nhk.or.jp/news/html/20250617/k10014837551000.html, Tue, 17 Jun 2025 19:11:33 +0900
+【詳細】ロシア ウクライナに軍事侵攻（6月17日の動き）, http://www3.nhk.or.jp/news/html/20250617/k10014810091000.html, Tue, 17 Jun 2025 19:08:32 +0900
+円相場 値下がり 米の景気減速の懸念後退でドルを買い戻す動き, http://www3.nhk.or.jp/news/html/20250617/k10014837531000.html, Tue, 17 Jun 2025 18:25:46 +0900
+日米首脳会談 “関税交渉 さらに協議進めることで一致”, http://www3.nhk.or.jp/news/html/20250617/k10014836971000.html, Tue, 17 Jun 2025 18:22:43 +0900
+ロシア通信社 “ロシア高官が北朝鮮に到着 キム総書記と会談”, http://www3.nhk.or.jp/news/html/20250617/k10014837521000.html, Tue, 17 Jun 2025 18:18:13 +0900
+G7サミット初日 関税焦点も米トランプ大統領は会議を切り上げ, http://www3.nhk.or.jp/news/html/20250617/k10014836861000.html, Tue, 17 Jun 2025 17:51:45 +0900
+水原一平元通訳 米東部ペンシルベニア州の刑務所に収監, http://www3.nhk.or.jp/news/html/20250617/k10014837141000.html, Tue, 17 Jun 2025 11:06:52 +0900
+米英首脳 関税措置めぐる貿易協定の文書に正式署名, http://www3.nhk.or.jp/news/html/20250617/k10014837091000.html, Tue, 17 Jun 2025 10:11:30 +0900
+トランプ氏一族の企業 携帯事業に参入 “米国製”の金色端末も, http://www3.nhk.or.jp/news/html/20250617/k10014837061000.html, Tue, 17 Jun 2025 10:10:52 +0900
+イスラエルとイラン 攻撃の応酬続く 激化が懸念【16日の動き】, http://www3.nhk.or.jp/news/html/20250616/k10014836131000.html, Tue, 17 Jun 2025 09:04:26 +0900
+ゼレンスキー大統領 G7でトランプ氏と会談へ 兵器購入を協議か, http://www3.nhk.or.jp/news/html/20250617/k10014837021000.html, Tue, 17 Jun 2025 07:01:43 +0900
+米FRB 利下げ見送りの見方強まる 議長の後任人事も注目, http://www3.nhk.or.jp/news/html/20250617/k10014836871000.html, Tue, 17 Jun 2025 06:33:35 +0900
+日韓国交正常化60年 イ大統領「両国は重要なパートナー」, http://www3.nhk.or.jp/news/html/20250617/k10014836921000.html, Tue, 17 Jun 2025 06:32:19 +0900
+イギリス 対外情報機関 MI6の次期長官に初めて女性を任命, http://www3.nhk.or.jp/news/html/20250617/k10014836941000.html, Tue, 17 Jun 2025 06:16:32 +0900
+日本製鉄のUSスチール買収 米政府が取締役3人に大きな影響力か, http://www3.nhk.or.jp/news/html/20250617/k10014836951000.html, Tue, 17 Jun 2025 05:10:21 +0900
+トランプ氏 G8からロシア排除を批判 中国参加も「かまわない」, http://www3.nhk.or.jp/news/html/20250617/k10014836981000.html, Tue, 17 Jun 2025 05:05:36 +0900
+インド旅客機墜落 米調査チーム現地入り 事故原因調査が本格化, http://www3.nhk.or.jp/news/html/20250616/k10014836811000.html, Mon, 16 Jun 2025 21:20:41 +0900
+岩屋外相 イラン外相と電話会談 最大限の自制を求める, http://www3.nhk.or.jp/news/html/20250616/k10014836821000.html, Mon, 16 Jun 2025 21:07:06 +0900
+【詳細】ロシア ウクライナに軍事侵攻（6月16日の動き）, http://www3.nhk.or.jp/news/html/20250616/k10014810081000.html, Mon, 16 Jun 2025 20:27:33 +0900
+“核紛争リスク 軍拡競争やAIで高まるおそれ”研究機関 報告書, http://www3.nhk.or.jp/news/html/20250616/k10014836271000.html, Mon, 16 Jun 2025 20:20:16 +0900
+石破首相 カナダ到着 G7で中東情勢など議論 日米首脳会談へ, http://www3.nhk.or.jp/news/html/20250616/k10014836421000.html, Mon, 16 Jun 2025 19:53:39 +0900
+カンボジア タイ国境地帯の領有権 国際司法裁判所に解決要請, http://www3.nhk.or.jp/news/html/20250616/k10014836761000.html, Mon, 16 Jun 2025 19:53:13 +0900
+トランプ大統領 イスラエルとイラン「合意の時だ」, http://www3.nhk.or.jp/news/html/20250616/k10014836241000.html, Mon, 16 Jun 2025 17:03:31 +0900
+G7サミット開幕へ 米関税措置や中東情勢への対応 協議の見通し, http://www3.nhk.or.jp/news/html/20250616/k10014836121000.html, Mon, 16 Jun 2025 15:55:37 +0900
+中国 5月主要経済統計 トランプ関税影響で生産指標の伸び縮小, http://www3.nhk.or.jp/news/html/20250616/k10014836501000.html, Mon, 16 Jun 2025 13:11:30 +0900
+ロシア軍 占領地拡大へ新たな攻勢 ウクライナ軍との攻防激化, http://www3.nhk.or.jp/news/html/20250616/k10014836161000.html, Mon, 16 Jun 2025 06:16:49 +0900
+日本製鉄のUSスチール買収 米商務長官 “黄金株”権限を説明, http://www3.nhk.or.jp/news/html/20250616/k10014836171000.html, Mon, 16 Jun 2025 05:48:14 +0900
+イスラエル イラン 攻撃対象がエネルギー関連施設などにも拡大, http://www3.nhk.or.jp/news/html/20250615/k10014835691000.html, Mon, 16 Jun 2025 00:13:05 +0900
+USスチール買収 石破首相 “計画着実に進むよう政府も努力”, http://www3.nhk.or.jp/news/html/20250616/k10014836151000.html, Mon, 16 Jun 2025 00:10:25 +0900
+石破首相 G7サミットへ出発 “G7の結束確認 関税合意に努力”, http://www3.nhk.or.jp/news/html/20250615/k10014836141000.html, Sun, 15 Jun 2025 23:52:32 +0900
+中国 台湾との交流を馬元総統ら招待しアピール 現政権けん制か, http://www3.nhk.or.jp/news/html/20250615/k10014836111000.html, Sun, 15 Jun 2025 23:22:08 +0900
+ドジャース ロバーツ監督に沖縄県民栄誉賞 試合前に授与式, http://www3.nhk.or.jp/news/html/20250615/k10014835851000.html, Sun, 15 Jun 2025 13:01:23 +0900
+米 大規模軍事パレード 「王はいらない」大統領への抗議デモも, http://www3.nhk.or.jp/news/html/20250615/k10014835671000.html, Sun, 15 Jun 2025 12:30:17 +0900
+仏 アニメ映画祭 青木康浩監督「ChaO」に長編部門審査員賞, http://www3.nhk.or.jp/news/html/20250615/k10014835761000.html, Sun, 15 Jun 2025 10:03:40 +0900
+米ミネソタ州議会議員2人と配偶者 銃撃され2人死亡, http://www3.nhk.or.jp/news/html/20250615/k10014835661000.html, Sun, 15 Jun 2025 08:01:36 +0900
+日本製鉄 USスチール買収 巨額投資に見合った収益生み出せるか, http://www3.nhk.or.jp/news/html/20250615/k10014835561000.html, Sun, 15 Jun 2025 07:04:39 +0900
+石破首相 G7サミット出席のためきょうカナダへ 日米首脳会談も, http://www3.nhk.or.jp/news/html/20250615/k10014835541000.html, Sun, 15 Jun 2025 06:09:17 +0900
+米ロ首脳が電話会談“イスラエル・イラン仲介用意”プーチン氏, http://www3.nhk.or.jp/news/html/20250615/k10014835681000.html, Sun, 15 Jun 2025 05:49:49 +0900
+旅客機墜落 インド政府が調査委設置 3か月以内に報告書を公表, http://www3.nhk.or.jp/news/html/20250615/k10014835721000.html, Sun, 15 Jun 2025 03:53:08 +0900
+イラン イスラエルへ報復 互いに攻撃姿勢崩さず双方で死傷者, http://www3.nhk.or.jp/news/html/20250614/k10014835031000.html, Sun, 15 Jun 2025 02:00:42 +0900
+BYD株価急落の背景「内巻」がキーワード【中国経済コラム】, http://www3.nhk.or.jp/news/html/20250613/k10014833561000.html, Sun, 15 Jun 2025 00:31:15 +0900
+Fetching: https://www.asahi.com/rss/asahi/politics.rdf
+東京都議選が22日に投開票へ　都政の評価が争点、参院選へ各党注力, https://www.asahi.com/articles/AST6P33HTT6POXIE01VM.html?ref=rss, undefined
+維新・吉村代表、北陸新幹線延伸ルート再検討に言及　参院選公約に, https://www.asahi.com/articles/AST6P368RT6POXIE025M.html?ref=rss, undefined
+「自民党立て直す」23年ぶり復党の鈴木宗男氏　参院選比例区出馬へ, https://www.asahi.com/articles/AST6P2V4JT6PIIPE00NM.html?ref=rss, undefined
+野党7党提出のガソリン減税法案、廃案へ　自民委員長が採決に応じず, https://www.asahi.com/articles/AST6P2WDJT6PUTFK008M.html?ref=rss, undefined
+水面下の駆け引きでなく議論ぶつける国会を　国会キャップの視点, https://www.asahi.com/articles/AST6P1RR5T6PUTFK01RM.html?ref=rss, undefined
+法案修正2割、数字で見る国会　憲法下初や51年ぶりなど異例ずくめ, https://www.asahi.com/articles/AST6P1GXDT6PUTFK00LM.html?ref=rss, undefined
+東京五輪の競技会場のその後は…都整備の5施設、来場者は目標届かず, https://www.asahi.com/articles/AST6N0F16T6NOXIE04BM.html?ref=rss, undefined
+「まだ不支持の方が高いな」　幻となった首相の衆参ダブル選シナリオ, https://www.asahi.com/articles/AST6N3GV1T6NUTFK024M.html?ref=rss, undefined
+異例の国会、乗り切った石破・森山コンビと政治の行方は　御厨貴さん, https://www.asahi.com/articles/AST6N1GQBT6NUPQJ018M.html?ref=rss, undefined
+皇位継承、今国会も結論先送り　額賀氏、今秋に向け「あらゆる手段」, https://www.asahi.com/articles/AST6N41YQT6NUTFK00WM.html?ref=rss, undefined
+評価厳しい与党、追い風なき野党　石破政権の命運かけた参院選へ始動, https://www.asahi.com/articles/AST6N41QKT6NUTFK00KM.html?ref=rss, undefined
+現職・仲田氏とN党・立花氏が立候補へ　兵庫・三木市長選22日告示, https://www.asahi.com/articles/AST6N3SD8T6NPIHB017M.html?ref=rss, undefined
+「給付」か「減税」か、論戦は参院選へ　通常国会が事実上閉幕, https://www.asahi.com/articles/AST6N3R79T6NUTFK007M.html?ref=rss, undefined
+鈴木宗男氏が自民に復党　移籍制限ルール作ったのは25年前の自分, https://www.asahi.com/articles/AST6N3CJJT6NIIPE00XM.html?ref=rss, undefined
+鈴木宗男氏、自民から参院選出馬へ　23年ぶり復党、公認へ手続き, https://www.asahi.com/articles/AST6N35W3T6NUTFK009M.html?ref=rss, undefined
+政治改革・選択的夫婦別姓…　積み残された課題や疑惑、参院選争点に, https://www.asahi.com/articles/AST6N3HFHT6NUTFK00QM.html?ref=rss, undefined
+公明・山口那津男元代表、政界引退へ　代表在任、最長の8期15年, https://www.asahi.com/articles/AST6N2RWKT6NUTFK00CM.html?ref=rss, undefined
+トップ当選の国民民主市議、当選無効　埼玉・入間に「居住実態ない」, https://www.asahi.com/articles/AST6N1HZPT6NUTNB00BM.html?ref=rss, undefined
+ガソリン減税法案、立憲委員長が職権で採決し衆院通過　廃案の見通し, https://www.asahi.com/articles/AST6N05F5T6NUTFK001M.html?ref=rss, undefined
+好きな政党の情報、新しい政党ほど「動画で見る」　新聞テレビは後退, https://www.asahi.com/articles/AST6C4TZBT6CULLI00QM.html?ref=rss, undefined
+Fetching: https://www.asahi.com/rss/asahi/business.rdf
+「日本を再び偉大に」赤沢大臣が発言　トランプ氏のMAGAなぞらえ, https://www.asahi.com/articles/AST6P4G0LT6PULFA007M.html?ref=rss, undefined
+トヨタが米国で値上げへ　平均3万9千円「市場や競合の動向踏まえ」, https://www.asahi.com/articles/AST6P2RWXT6PULFA003M.html?ref=rss, undefined
+高関税振りかざすトランプ氏　止められるのは金融市場の反応だけか, https://www.asahi.com/articles/AST6M3GDMT6MUPQJ00NM.html?ref=rss, undefined
+元中学教員が始めた農業の「部活」　まちなか農地を気軽に集える場に, https://www.asahi.com/articles/AST6M0RFNT6MOXIE038M.html?ref=rss, undefined
+美容師や看護師、介護…広がる専門職スキマバイト、休眠人材の発掘も, https://www.asahi.com/articles/AST6N257NT6NULFA00VM.html?ref=rss, undefined
+中小企業の価格転嫁「二極化」、発注側から説明ない例も　経産省調査, https://www.asahi.com/articles/AST6N2T0TT6NULFA00HM.html?ref=rss, undefined
+コメ農家への支払い方法見直し、小泉氏要求　JA側「一つの選択肢」, https://www.asahi.com/articles/AST6N3RK7T6NULFA00GM.html?ref=rss, undefined
+財務省、超長期国債の発行減額へ　3兆円余り　需給悪化で金利上昇, https://www.asahi.com/articles/AST6N3CV0T6NULFA00FM.html?ref=rss, undefined
+アンナミラーズの店舗、3年ぶり復活へ　南青山で12月上旬に開業, https://www.asahi.com/articles/AST6N3CJ5T6NULFA01QM.html?ref=rss, undefined
+非正規向けオンライン訓練、本格実施へ　厚労省研究会「ニーズ高い」, https://www.asahi.com/articles/AST6N331GT6NULFA00WM.html?ref=rss, undefined
+「蜜月」米印関係にすきま風？関税交渉に影　印パ停戦、食い違う主張, https://www.asahi.com/articles/AST6N31JST6NUHBI012M.html?ref=rss, undefined
+ユニチカ、繊維事業をセーレンに売却　岡崎事業所の存続にめど, https://www.asahi.com/articles/AST6N31X2T6NPLFA001M.html?ref=rss, undefined
+オンラインカジノのブロッキング「慎重に検討」総務省が中間論点案, https://www.asahi.com/articles/AST6N2ST5T6NULFA013M.html?ref=rss, undefined
+消費者物価の伸び率、半年連続で3%以上　コメ中心に幅広く押し上げ, https://www.asahi.com/articles/AST6N1QQJT6NULFA00YM.html?ref=rss, undefined
+赤沢大臣「引き続き五里霧中」　日米関税交渉、次の節目は7月9日?, https://www.asahi.com/articles/AST6N1TKFT6NULFA012M.html?ref=rss, undefined
+証券口座乗っ取り、対策不十分なら業務改善命令　金融庁が指針改定へ, https://www.asahi.com/articles/AST6N25R7T6NULFA026M.html?ref=rss, undefined
+牧野フライスへのTOB撤回「10秒で決めた」　ニデック永守代表, https://www.asahi.com/articles/AST6N21LMT6NPLFA002M.html?ref=rss, undefined
+日銀の物価目標「1年ほど後ずれ」、トランプ関税で　5月会合要旨, https://www.asahi.com/articles/AST6N15NTT6NULFA00BM.html?ref=rss, undefined
+浸水隠し謝罪、船体選定や造船会社の責任問う声も　JR九州株主総会, https://www.asahi.com/articles/AST6N1GZXT6NULFA007M.html?ref=rss, undefined
+米の政府備蓄、適正量の15％に　小泉氏、海外産米の輸入前倒し表明, https://www.asahi.com/articles/AST6N1C8WT6NUTIL00HM.html?ref=rss, undefined
+「厳しい評価」のセブン、社長「失敗許容し挑戦していく」組織へ変革, https://www.asahi.com/articles/AST6M7RYDT6MULFA00WM.html?ref=rss, undefined
+5月消費者物価、3.7％上昇　コメは8カ月連続で過去最大の伸び率, https://www.asahi.com/articles/AST6N0PKKT6NKJLA003M.html?ref=rss, undefined
+「お米を作る農機具屋さん」耕す130枚　収量減で新たな品種導入, https://www.asahi.com/articles/AST6L3JDQT6LUTFL01RM.html?ref=rss, undefined
+Fetching: https://www.asahi.com/rss/asahi/international.rdf
+イラン、犠牲者430人「大半は民間人」　イスラエル軍は核施設攻撃, https://www.asahi.com/articles/AST6P449ZT6PUHBI020M.html?ref=rss, undefined
+「ウクライナ全土が我々のもの」　プーチン氏の強硬姿勢支えるものは, https://www.asahi.com/articles/AST6P32ZLT6PUHBI00MM.html?ref=rss, undefined
+米、日本の防衛費増GDP比3.5%を非公式打診　2プラス2見送り, https://www.asahi.com/articles/AST6P32PDT6PUTFK00JM.html?ref=rss, undefined
+「これからどうなるのか」トルコ脱出のイラン人、不安訴え　国境ルポ, https://www.asahi.com/articles/AST6P2Q8YT6PUHBI007M.html?ref=rss, undefined
+高関税振りかざすトランプ氏　止められるのは金融市場の反応だけか, https://www.asahi.com/articles/AST6M3GDMT6MUPQJ00NM.html?ref=rss, undefined
+トランプ政権、アジア同盟国も防衛費GDP比5%に「追いつくべき」, https://www.asahi.com/articles/AST6P24BFT6PUHBI00HM.html?ref=rss, undefined
+ロシアの次の標的は？緊張高まるバルト3国　NATOのアキレス腱, https://www.asahi.com/articles/AST6M3HL9T6MUEFT00PM.html?ref=rss, undefined
+「生きづらい」世の中だから会いたい　BTSきょうで全員が兵役終了, https://www.asahi.com/articles/AST6N4DYCT6NUHBI01VM.html?ref=rss, undefined
+レゴ、ハリポタ…上海にテーマパーク続々　ディズニーとの相乗効果は, https://www.asahi.com/articles/AST6N7TDHT6NUHBI026M.html?ref=rss, undefined
+IAEA「炉心溶融につながる可能性も」　イランへの攻撃抑制求める, https://www.asahi.com/articles/AST6P0576T6PUHBI003M.html?ref=rss, undefined
+ソウルに日本食ラーメン、日本の食卓にチヂミ　日常化する互いの文化, https://www.asahi.com/articles/AST6N10NDT6NUHBI02GM.html?ref=rss, undefined
+「朝鮮通信使」でたどる日韓友好の跡　国交正常化60年で高まる関心, https://www.asahi.com/articles/AST6N44BQT6NPTIL00VM.html?ref=rss, undefined
+トランプ大統領「ハーバードとディール発表の可能性」　全面対決一転, https://www.asahi.com/articles/AST6P04T2T6PBQBQ04KM.html?ref=rss, undefined
+死を選ぶ権利、英で法制化へ　余命半年以内の成人対象　罰則規定も, https://www.asahi.com/articles/AST6N7RVBT6NUHBI006M.html?ref=rss, undefined
+トランプ氏、優勢のイスラエルに攻撃停止要請は「難しい」, https://www.asahi.com/articles/AST6N7RD4T6NUHBI00GM.html?ref=rss, undefined
+作戦の成功が危機に　イスラエルのイラン攻撃、元准将が語る落とし穴, https://www.asahi.com/articles/AST6N2J8PT6NSFVU32PM.html?ref=rss, undefined
+イスラエルの「優位性」で生まれる危険　変わる中東のパワーバランス, https://www.asahi.com/articles/AST6N2RKQT6NUHBI00HM.html?ref=rss, undefined
+ウクライナ北東部の州都を占領も　プーチン氏が主張、圧力強化狙いか, https://www.asahi.com/articles/AST6N66G5T6NUHBI02XM.html?ref=rss, undefined
+イスラエル軍、イランとの交戦めぐり「長期の戦いに備える必要ある」, https://www.asahi.com/articles/AST6N7G7CT6NUHBI005M.html?ref=rss, undefined
+ウクライナ館長からあなたへ　今伝えたい、戦争の現実と平和への願い, https://www.asahi.com/articles/AST6N1CS0T6NPQIP00TM.html?ref=rss, undefined
+英独仏EU、イランと外相会談　「米国との協議継続」強く呼びかけ, https://www.asahi.com/articles/AST6N6KFXT6NUHBI02YM.html?ref=rss, undefined
+江の島と釜山に打ち上げられたプラごみ　日韓結ぶキーホルダーに変身, https://www.asahi.com/articles/AST6N1RL7T6NUPQJ009M.html?ref=rss, undefined
+インドに次世代新幹線導入で合意へ　モディ首相が8月末に訪日で調整, https://www.asahi.com/articles/AST6N3DJKT6NUTFK01NM.html?ref=rss, undefined
+「日本はどうか支え続けて」　国連難民高等弁務官、避難民増加を懸念, https://www.asahi.com/articles/AST6N3J5NT6NUHBI02VM.html?ref=rss, undefined
+プーチン氏、ウクライナに「現実認めよ」　国際会合で「降伏」を主張, https://www.asahi.com/articles/AST6N5FJ5T6NUHBI01TM.html?ref=rss, undefined
+欧州3カ国とイラン外相が会談　「軍事作戦は制御不能に陥る危険」, https://www.asahi.com/articles/AST6N3J2YT6NUHBI02JM.html?ref=rss, undefined
+岩屋外相「報復の応酬と被害を深く懸念」　イスラエル外相と電話協議, https://www.asahi.com/articles/AST6N3TQZT6NUHBI02TM.html?ref=rss, undefined
+台湾、野党立法委員24人の罷免投票へ　異例の大規模、中選委が発表, https://www.asahi.com/articles/AST6N3PLTT6NUHBI010M.html?ref=rss, undefined
+「米抜きで全核施設に攻撃可能」　イスラエルのネタニヤフ首相, https://www.asahi.com/articles/AST6N3F1QT6NUHBI01YM.html?ref=rss, undefined
+EU、医療機器の公共調達から中国を排除　自国優遇に対抗措置, https://www.asahi.com/articles/AST6N3F28T6NUHBI002M.html?ref=rss, undefined
+Fetching: https://assets.wor.jp/rss/rdf/nikkei/economy.rdf
+ドローン航路共用へ登録制度　政府、手続き簡略化でビジネス利用促進, https://www.nikkei.com/article/DGXZQOUA209ND0Q5A620C2000000/, undefined
+日本と韓国「近くて遠い国」一変　国交60年、似通う経済と課題, https://www.nikkei.com/article/DGXZTS00016261T20C25A5000000/, undefined
+小泉農相1カ月、世論味方に「米騒動」荒療治　もろ刃の発信力, https://www.nikkei.com/article/DGXZQOUA19D1F0Z10C25A6000000/, undefined
+金融庁が月内にも証券監督の新指針案　口座乗っ取り、認証強化を義務, https://www.nikkei.com/article/DGXZQOUB20CUK0Q5A620C2000000/, undefined
+JERA、LNG｢冬だけ調達｣　豪ウッドサイドと5年で100万トン合意, https://www.nikkei.com/article/DGXZQOUC20BDW0Q5A620C2000000/, undefined
+物価上昇、輸入から国内要因にシフト　人件費など転嫁, https://www.nikkei.com/article/DGXZQOUA10D5H0Q5A610C2000000/, undefined
+備蓄米放出、外食の申請受け付け開始　信越など小売り3000円台に, https://www.nikkei.com/article/DGXZQOUA204S00Q5A620C2000000/, undefined
+20年債は月2000億円減額　超長期債発行、異例の期中見直し, https://www.nikkei.com/article/DGXZQOUA203OV0Q5A620C2000000/, undefined
+小泉農相、JAに「コメ改革」協力要請　ビル売却など経営問題にクギ, https://www.nikkei.com/article/DGXZQOUA19AYB0Z10C25A6000000/, undefined
+農家の所得安定へ「コメ買い取りを」　農相、JAに概算金見直し要求, https://www.nikkei.com/article/DGXZQOUA202KN0Q5A620C2000000/, undefined
+コメの転作助成金「縮小を」60%　経済学者から輸入拡大論も, https://www.nikkei.com/article/DGXZQOCD185OX0Y5A610C2000000/, undefined
+「レビキャリ」成約件数200件　金融庁、大企業から地方に転職支援, https://www.nikkei.com/article/DGXZQOUB206PF0Q5A620C2000000/, undefined
+中国産黒鉛に95%の不当廉売関税　財務省、5年間, https://www.nikkei.com/article/DGXZQOUA2076D0Q5A620C2000000/, undefined
+AIによる自動価格設定「カルテルのリスク」　公取委が指針で注意喚起, https://www.nikkei.com/article/DGXZQOUA205A70Q5A620C2000000/, undefined
+金融庁、信金・信組の内部監査強化促す　業界内連携呼び掛け, https://www.nikkei.com/article/DGXZQOUB2061P0Q5A620C2000000/, undefined
+国境またぐ収納代行、金融庁が相談窓口　法改正受け, https://www.nikkei.com/article/DGXZQOUB204TI0Q5A620C2000000/, undefined
+価格転嫁率、初の5割超え　中小企業庁調査, https://www.nikkei.com/article/DGXZQOUA202MX0Q5A620C2000000/, undefined
+小泉農相「企業の農業参入、新たな形を模索」　同友会幹部と意見交換, https://www.nikkei.com/article/DGXZQOUA205PO0Q5A620C2000000/, undefined
+25年度の実質成長率は0.5%、26年度は0.6%　NEEDS予測, https://www.nikkei.com/article/DGXZQOMG204BP0Q5A620C2000000/, undefined
+赤沢経財相「7月9日が一つの節目」　日米交渉、相互関税の猶予期限, https://www.nikkei.com/article/DGXZQOUA2037P0Q5A620C2000000/, undefined
+備蓄米在庫、随意契約分を全放出なら15万トンに　通常100万トン, https://www.nikkei.com/article/DGXZQOUA203JB0Q5A620C2000000/, undefined
+米国の報復増税案、日本政府が懸念伝達　加藤財務相「投資に悪影響」, https://www.nikkei.com/article/DGXZQOUA04BI30U5A600C2000000/, undefined
+オンラインカジノ強制遮断、年内に可否判断　総務省会議, https://www.nikkei.com/article/DGXZQOUA19B5M0Z10C25A6000000/, undefined
+厚労省、保険局担当審議官を3人に増員　診療報酬や高額療養費に対応, https://www.nikkei.com/article/DGXZQOUA192Z30Z10C25A6000000/, undefined
+5月の消費者物価3.7%上昇　伸び拡大、コメは101.7%高, https://www.nikkei.com/article/DGXZQOUA19C1W0Z10C25A6000000/, undefined
+コメの転作助成は続けるべきか？　経済学者に聞く, https://www.nikkei.com/article/DGXZQOCD186DG0Y5A610C2000000/, undefined
+政府のコメ生産調整は有効なのか？　経済学者の回答一覧, https://www.nikkei.com/article/DGXZQOCD186BI0Y5A610C2000000/, undefined
+株主総会、周回遅れのデジタル化　郵便料金は年208億円の削減余地, https://www.nikkei.com/article/DGXZQOUA03A880T00C25A6000000/, undefined
+ガソリン価格、26日から175円上限に　中東情勢対応で新たな補助, https://www.nikkei.com/article/DGXZQOUA19BNH0Z10C25A6000000/, undefined
+備蓄米の小売り需要頭打ち、第3弾は3割3万トン　外食・中食を対象に, https://www.nikkei.com/article/DGXZQOUA195WP0Z10C25A6000000/, undefined
+Fetching: https://assets.wor.jp/rss/rdf/nikkei/business.rdf
+太陽HD社長の取締役再任案、株主総会で否決　DICや創業家反対, https://www.nikkei.com/article/DGXZQOUC18AO60Y5A610C2000000/, undefined
+太陽HD好調下の社長「解任」　統治不全と批判、医薬や非公開化巡り, https://www.nikkei.com/article/DGXZQOUC193S20Z10C25A6000000/, undefined
+炊飯器に商機、備蓄米もおいしく　タイガーは15万円超で機能性強調, https://www.nikkei.com/article/DGXZQOUF17B4P0X10C25A6000000/, undefined
+東京電力、柏崎刈羽原発6号機の燃料装荷が完了　健全性確認へ, https://www.nikkei.com/article/DGXZQOCC210EM0R20C25A6000000/, undefined
+ハウステンボス、ミッフィーの新エリア開業　若者や家族連れで沸く, https://www.nikkei.com/article/DGXZQOJC2035O0Q5A620C2000000/, undefined
+フェラーリ、PHVの新型スポーツカーを日本初公開　5911万円から, https://www.nikkei.com/article/DGXZQOCC192E90Z10C25A6000000/, undefined
+チームビルドは森の中で　三井物産などが研修、アイデア触発, https://www.nikkei.com/article/DGXZQOUB204760Q5A220C2000000/, undefined
+自動車関税、米新車価格は1台あたり26万円上昇　米民間試算, https://www.nikkei.com/article/DGXZQOGN20E150Q5A620C2000000/, undefined
+Apple、AI検索新興のPerplexity買収を社内協議　米報道, https://www.nikkei.com/article/DGXZQOGN2107X0R20C25A6000000/, undefined
+九州の鉄道、線路は続くか　人口減やローカル線の解決策を探る, https://www.nikkei.com/article/DGXZQOJC139X60T10C25A6000000/, undefined
+メタ、「オークリー」ブランドのAI眼鏡　アスリート需要開拓, https://www.nikkei.com/article/DGXZQOGN20DQL0Q5A620C2000000/, undefined
+OpenAI、Microsoftとの蜜月終わる　出資比率や独占販売巡り対立, https://www.nikkei.com/article/DGXZQOGN207JU0Q5A620C2000000/, undefined
+日本製鉄、逆転劇でUSスチール買収　主導した「鉄の交渉人」の胆力, https://www.nikkei.com/article/DGXZQOUC20CIR0Q5A620C2000000/, undefined
+2025年上期ヒット、寝てる「ミャクミャク」や疲労回復のアイデア品も, https://www.nikkei.com/article/DGXZQOUF19BA50Z10C25A6000000/, undefined
+音は麻酔になるか　イヤホン装置で脳波計測、国立がんセンターなど, https://www.nikkei.com/article/DGXZQOSG04ASG0U5A600C2000000/, undefined
+和歌山の生しらす丼、ぷりっと広がる甘さ　湯浅のしょうゆと好相性, https://www.nikkei.com/article/DGXZQOUF167M00W5A610C2000000/, undefined
+任天堂Switch2転売問題　空出品・箱のみ…フリマ対応に批判も, https://www.nikkei.com/article/DGXZQOUC195UV0Z10C25A6000000/, undefined
+「農業を身近に感じて」　農家が絵本で広げる食育の輪, https://www.nikkei.com/article/DGXZQOCD2041U0Q5A620C2000000/, undefined
+サントリー、水クレジットの認証組織　資源の再生量評価, https://www.nikkei.com/article/DGXZQOUC193T50Z10C25A6000000/, undefined
+実写版「リロ&スティッチ」ヒット　興行収入は大台10億ドルに迫る, https://www.nikkei.com/article/DGXZQOGN0605X0W5A600C2000000/, undefined
+NVIDIA、AIサーバー生産にヒト型ロボの初導入検討　ロイター報道, https://www.nikkei.com/article/DGXZQOGN20DNU0Q5A620C2000000/, undefined
+ポーラ、高級スキンケア「B.A」刷新　海外見据え中国で消費者調査, https://www.nikkei.com/article/DGXZQOUC30ANG0Q5A530C2000000/, undefined
+保育園で総菜を無人販売　ハウス食品が夕食サポート、200カ所目標, https://www.nikkei.com/article/DGXZQOUC14A1B0U5A510C2000000/, undefined
+育児のコリ、遊びながらほぐす　イオンファンタジーとピップ連携, https://www.nikkei.com/article/DGXZQOUC27AEJ0X20C25A5000000/, undefined
+長野への本社移転、コロナ後も勢い減速せず　BCPや地域貢献を意識, https://www.nikkei.com/article/DGXZQOCC039JP0T00C25A6000000/, undefined
+「GUを確立せよ」柳井正氏指令　国内3位でもイメージは安いユニクロ, https://www.nikkei.com/article/DGXZQOUC308T10Q5A430C2000000/, undefined
+人材獲得はマーケティング、だが「会社の命運に等しい」, https://www.nikkei.com/article/DGXZQOUC0980N0Z00C25A5000000/, undefined
+「常時対話」こそ解　株主総会、議案巡る対決は時代遅れ, https://www.nikkei.com/article/DGXZQOTG037UM0T00C25A6000000/, undefined
+インドTikTok禁止、跡埋める国産SNS　ローカル15言語対応, https://www.nikkei.com/article/DGXZQOUC106VV0Q5A610C2000000/, undefined
+ロートが藻類農園を観光施設に　色素使い青ビール、沖縄県久米島で, https://www.nikkei.com/article/DGXZQOUF025FA0S5A600C2000000/, undefined
+Fetching: https://assets.wor.jp/rss/rdf/nikkei/international.rdf
+レアアース覇権、環境汚染のみ込んだ中国　40年の計で生産ほぼ独占, https://www.nikkei.com/article/DGXZQOGM12BUB0S5A610C2000000/, undefined
+イスラエル・イラン衝突、湾岸アラブに余波　米航空会社は中東便停止, https://www.nikkei.com/article/DGXZQOGR20CLH0Q5A620C2000000/, undefined
+中国・ロシアが実務協力の強化表明　プーチン氏、副首相と会談, https://www.nikkei.com/article/DGXZQOCB2127U0R20C25A6000000/, undefined
+米国「アジア国防費にGDP比5%」　同盟国は財源確保に苦慮, https://www.nikkei.com/article/DGXZQOUA211G70R20C25A6000000/, undefined
+日本と韓国「近くて遠い国」一変　国交60年、似通う経済と課題, https://www.nikkei.com/article/DGXZTS00016261T20C25A5000000/, undefined
+空自輸送機､ジブチへ　イスラエル･イランからの邦人退避備え情勢分析, https://www.nikkei.com/article/DGXZQOUA211LF0R20C25A6000000/, undefined
+中国が金融都市・香港の復調演出　国安法5年、新規上場世界トップ, https://www.nikkei.com/article/DGXZQOGM201ZW0Q5A620C2000000/, undefined
+米政府「アジア同盟国も防衛費をGDP比5%に」　日本への要求基準に, https://www.nikkei.com/article/DGXZQOGN210C50R20C25A6000000/, undefined
+イラン外相、23日にロシア訪問か　プーチン氏は仲介役否定, https://www.nikkei.com/article/DGXZQOCB210UG0R20C25A6000000/, undefined
+日韓で宇宙ビジネス・韓国に日本のおにぎり…シナジー生む両国関係, https://www.nikkei.com/article/DGXZQOUA136670T10C25A6000000/, undefined
+自動車関税、米新車価格は1台あたり26万円上昇　米民間試算, https://www.nikkei.com/article/DGXZQOGN20E150Q5A620C2000000/, undefined
+Apple、AI検索新興のPerplexity買収を社内協議　米報道, https://www.nikkei.com/article/DGXZQOGN2107X0R20C25A6000000/, undefined
+トランプ氏、FRB議長批判を連日投稿　FOMC後も止まらず, https://www.nikkei.com/article/DGXZQOGN210820R20C25A6000000/, undefined
+アクセンチュア株急落、一時11%安　米政府の歳出削減で受注減, https://www.nikkei.com/article/DGXZQOUB20DZ40Q5A620C2000000/, undefined
+トヨタ、米国で値上げ　7月から平均4万円「市場動向踏まえ判断」, https://www.nikkei.com/article/DGXZQOGN2104U0R20C25A6000000/, undefined
+トランプ氏、イスラエルの攻撃停止「実現は困難」　イランが要求, https://www.nikkei.com/article/DGXZQOGN2100R0R20C25A6000000/, undefined
+NYダウ小反発、35ドル高　中東情勢巡る交渉進展に期待, https://www.nikkei.com/article/DGXZQOFL2100L0R20C25A6000000/, undefined
+メタ、「オークリー」ブランドのAI眼鏡　アスリート需要開拓, https://www.nikkei.com/article/DGXZQOGN20DQL0Q5A620C2000000/, undefined
+米攻撃回避へ道は開けず　英独仏EU、イランと協議継続へ, https://www.nikkei.com/article/DGXZQOGR20E020Q5A620C2000000/, undefined
+ハーバード大学の留学生受け入れ禁止令、当面差し止め　米連邦地裁, https://www.nikkei.com/article/DGXZQOGN20E1I0Q5A620C2000000/, undefined
+米国、白物家電も鉄鋼・アルミ関税の対象に　含有量に応じ, https://www.nikkei.com/article/DGXZQOGN20DXN0Q5A620C2000000/, undefined
+米控訴裁、トランプ氏のロス派兵容認　司法判断は政権有利に, https://www.nikkei.com/article/DGXZQOGN20DWR0Q5A620C2000000/, undefined
+OpenAI、Microsoftとの蜜月終わる　出資比率や独占販売巡り対立, https://www.nikkei.com/article/DGXZQOGN207JU0Q5A620C2000000/, undefined
+日本製鉄、逆転劇でUSスチール買収　主導した「鉄の交渉人」の胆力, https://www.nikkei.com/article/DGXZQOUC20CIR0Q5A620C2000000/, undefined
+「大悪魔」と「悪の枢軸」、米国とイラン敵対の歴史　大使館占拠444日, https://www.nikkei.com/article/DGXZQOCB208DI0Q5A620C2000000/, undefined
+実写版「リロ&スティッチ」ヒット　興行収入は大台10億ドルに迫る, https://www.nikkei.com/article/DGXZQOGN0605X0W5A600C2000000/, undefined
+英独仏、イランと協議継続で合意　米国との直接交渉促す, https://www.nikkei.com/article/DGXZQOGR20CUT0Q5A620C2000000/, undefined
+米国、ハリケーン予報の精度｢危機的｣　トランプ政権の予算・人員減で, https://www.nikkei.com/article/DGXZQOGN1258J0S5A610C2000000/, undefined
+プーチン氏、中東衝突｢解決策を提案｣　影響力低下で存在感誇示に躍起, https://www.nikkei.com/article/DGXZQOGR20DXL0Q5A620C2000000/, undefined
+英国、安楽死法案が下院通過　合法化に近づく, https://www.nikkei.com/article/DGXZQOGR20DZ80Q5A620C2000000/, undefined
+Fetching: https://assets.wor.jp/rss/rdf/sankei/economy.rdf
+未来を拓くサウジアラビアの女性11人　万博会場で写真展始まる　25日まで, https://www.sankei.com/article/20250621-4MIX3UHS6ZKJJI2WTLWW7CQGKI/, undefined
+太陽HD株主総会、社長の取締役再任否決　化学メーカー、香港系ファンドが反対呼びかけ, https://www.sankei.com/article/20250621-FFS3EXTJQFJ3FAJUEJE2N2VR44/, undefined
+山形新幹線、26日まで運休　E8系不具合、27日以降は24日ごろ明らかに, https://www.sankei.com/article/20250621-HCI3CPUTMZM5RMX6W2UEZRZI2Q/, undefined
+既存建物の改修でエネルギー消費実質ゼロへ　ダイキンが注力、JR九州が事業所で導入, https://www.sankei.com/article/20250621-H7LWHXMTRRLAPMPVB7DPA6M6VU/, undefined
+「Nintendo Switch 2」のはずが…発送されるのは写真や作文　メルカリで…, https://www.sankei.com/article/20250621-SOD3OXZQ5JNFNK3LAESHCQWKNU/, undefined
+温故知新「RAW WINE」に共感　自然製法〝生〟の美味、日本の醸造家も続々, https://www.sankei.com/article/20250621-NFFQPD4FWFJQ7AJ7TESAA36CCY/, undefined
+「世界のベスト・レストラン50」世界一にリマの「マイド」　オーナーシェフは大阪で修業, https://www.sankei.com/article/20250621-IK2IFB7PNVJ2VOB6S5H2XTXFFE/, undefined
+「パリ国際航空ショー」でMASCが「空飛ぶクルマ」展示　岡山の高校生が接客などに活躍, https://www.sankei.com/article/20250621-LXWWR462HBIUFLVSY6QWVSO3PU/, undefined
+米破産法申請のマレリ　埼玉県内の取引先は174社　再編につながる可能性も, https://www.sankei.com/article/20250621-TPGZA5WUVFMAFNCXLONCHCENHQ/, undefined
+トヨタ、米国で7月から値上げへ　「毎年の価格改定の一環」と説明, https://www.sankei.com/article/20250621-GUWC4P5BZVN43PJGWFRJXPCOJU/, undefined
+NY円、146円近辺　投資家のリスク回避姿勢が後退し円が売られる, https://www.sankei.com/article/20250621-UW3ZTIQ7T5O33MVYGBFHJ4PJ3A/, undefined
+NY株小幅反発、35ドル高　中東巡る交渉進展に期待感, https://www.sankei.com/article/20250621-6TGH3AYGBFNEPFUFLHYRGU6U4A/, undefined
+脱炭素に貢献、西部ガスがメタネーション実証運転を開始　令和12年めどに商用化, https://www.sankei.com/article/20250621-H5FNG3MKPBJJRPLRVIPWGMZLO4/, undefined
+米関税影響判断は時期尚早　FRBの半期報告書、早期利下げに改めて慎重姿勢, https://www.sankei.com/article/20250621-GC7OGVNWYVNDFCDPHYCH5IJIGA/, undefined
+「日本版ライドシェア」新潟で導入8カ月　認知度、配車アプリ…普及に向け見えてきた課題, https://www.sankei.com/article/20250621-BRZJQPSEJRM5DOQUWDFSLG4BMY/, undefined
+テスラ、7月にもインド市場進出、ムンバイに初の販売店　すでに中国製「モデルY」到着, https://www.sankei.com/article/20250621-47MZIHS5YJMJXKYPRFO7DDXSZQ/, undefined
+未来を拓くサウジアラビアの女性11人　万博会場で写真展始まる　25日まで, https://www.sankei.com/article/20250621-4MIX3UHS6ZKJJI2WTLWW7CQGKI/, undefined
+太陽HD株主総会、社長の取締役再任否決　化学メーカー、香港系ファンドが反対呼びかけ, https://www.sankei.com/article/20250621-FFS3EXTJQFJ3FAJUEJE2N2VR44/, undefined
+山形新幹線、26日まで運休　E8系不具合、27日以降は24日ごろ明らかに, https://www.sankei.com/article/20250621-HCI3CPUTMZM5RMX6W2UEZRZI2Q/, undefined
+既存建物の改修でエネルギー消費実質ゼロへ　ダイキンが注力、JR九州が事業所で導入, https://www.sankei.com/article/20250621-H7LWHXMTRRLAPMPVB7DPA6M6VU/, undefined
+「Nintendo Switch 2」のはずが…発送されるのは写真や作文　メルカリで…, https://www.sankei.com/article/20250621-SOD3OXZQ5JNFNK3LAESHCQWKNU/, undefined
+温故知新「RAW WINE」に共感　自然製法〝生〟の美味、日本の醸造家も続々, https://www.sankei.com/article/20250621-NFFQPD4FWFJQ7AJ7TESAA36CCY/, undefined
+「世界のベスト・レストラン50」世界一にリマの「マイド」　オーナーシェフは大阪で修業, https://www.sankei.com/article/20250621-IK2IFB7PNVJ2VOB6S5H2XTXFFE/, undefined
+「パリ国際航空ショー」でMASCが「空飛ぶクルマ」展示　岡山の高校生が接客などに活躍, https://www.sankei.com/article/20250621-LXWWR462HBIUFLVSY6QWVSO3PU/, undefined
+米破産法申請のマレリ　埼玉県内の取引先は174社　再編につながる可能性も, https://www.sankei.com/article/20250621-TPGZA5WUVFMAFNCXLONCHCENHQ/, undefined
+トヨタ、米国で7月から値上げへ　「毎年の価格改定の一環」と説明, https://www.sankei.com/article/20250621-GUWC4P5BZVN43PJGWFRJXPCOJU/, undefined
+NY円、146円近辺　投資家のリスク回避姿勢が後退し円が売られる, https://www.sankei.com/article/20250621-UW3ZTIQ7T5O33MVYGBFHJ4PJ3A/, undefined
+Fetching: https://assets.wor.jp/rss/rdf/sankei/world.rdf
+未来を拓くサウジアラビアの女性11人　万博会場で写真展始まる　25日まで, https://www.sankei.com/article/20250621-4MIX3UHS6ZKJJI2WTLWW7CQGKI/, undefined
+未来を拓くサウジアラビアの女性11人　万博会場で写真展始まる　25日まで, https://www.sankei.com/article/20250621-4MIX3UHS6ZKJJI2WTLWW7CQGKI/, undefined
+イラン革命防衛軍、北部で爆弾発見　警察はイスラエル協力疑いの22人逮捕, https://www.sankei.com/article/20250621-HKH6BSC475PHBKUPJ4WRI7RREE/, undefined
+中国高官「反中分子に打撃」と称賛　香港国安法5年でフォーラム、李行政長官も「感謝」, https://www.sankei.com/article/20250621-JGNBJNRFUZK77MIMXD5VUQDCVM/, undefined
+迫る日韓正常化反対デモ、偶然生まれたパイプ…情報機関元幹部が明かす60年前の舞台裏, https://www.sankei.com/article/20250621-SN2IEFOHEVLSJEHRCLUJTC5TUA/, undefined
+海自ヘリ搭載艦「いせ」マニラに寄港　護衛艦「すずなみ」も、フィリピン軍と訓練へ調整, https://www.sankei.com/article/20250621-LTDKBI4WHVNXZPW2ERRCQ3WYHY/, undefined
+安倍昭恵夫人「主人の魂は常に台湾と共にある」　南部・高雄の安倍元首相銅像に献花, https://www.sankei.com/article/20250621-QTO7FPVWA5KSFCIRBA4M322YIA/, undefined
+イラン核関連施設が再び攻撃、放射性物質の汚染なし　イスラエルは長期化示唆, https://www.sankei.com/article/20250621-5CAKF3VQ25JYFLOCXO4A36Q6RQ/, undefined
+BTS全員が兵役終了、SUGAさん任務解除　韓国音楽グループ「完全体」で活動再開へ, https://www.sankei.com/article/20250621-APUOBF2SWNJGHCEI63BIAR763Q/, undefined
+空自輸送機2機、アフリカ東部のジブチに出発　イスラエル・イラン邦人退避備え情勢分析, https://www.sankei.com/article/20250621-4NO3DSZKXFLX5EISPF2XLMCSXA/, undefined
+米当局がパレスチナ人学生のハリルさんを保釈　移民学生取り締まりの象徴的存在, https://www.sankei.com/article/20250621-4SHP64W5RJNKLPXAJCIWKAW7NE/, undefined
+ローマのスペイン広場の階段を乗用車でがたがた下り…動けなくなる　81歳男性が出勤途中, https://www.sankei.com/article/20250621-QBZLLF7P7FN7HBZ4FOWAQ522WM/, undefined
+イランのアラグチ外相がロシア訪問か、プーチン大統領と会談見込み　米メディア記者報じる, https://www.sankei.com/article/20250621-AAXZS6YNUFIXXA5NGABUUKPU5A/, undefined
+党幹部ら古美術商に変装して国境越え　97年前、知られざるモスクワでの「中国共産党大会…, https://www.sankei.com/article/20250621-BYWZYK2WCZKNFJRTUYDOB33BH4/, undefined
+「世界のベスト・レストラン50」世界一にリマの「マイド」　オーナーシェフは大阪で修業, https://www.sankei.com/article/20250621-IK2IFB7PNVJ2VOB6S5H2XTXFFE/, undefined
+パキスタンがトランプ米大統領をノーベル平和賞に推薦　インドとの武力衝突で停戦を仲介, https://www.sankei.com/article/20250621-S6H7HD7IBJKD5GXGDLVMVXFWUU/, undefined
+トルコ大統領、イスラエルは「賊のような行い」　イスラム機構会合で演説、イランを擁護, https://www.sankei.com/article/20250621-XAFNCLA6ZZKNBF63TZNNQW3HPU/, undefined
+未来を拓くサウジアラビアの女性11人　万博会場で写真展始まる　25日まで, https://www.sankei.com/article/20250621-4MIX3UHS6ZKJJI2WTLWW7CQGKI/, undefined
+イラン革命防衛軍、北部で爆弾発見　警察はイスラエル協力疑いの22人逮捕, https://www.sankei.com/article/20250621-HKH6BSC475PHBKUPJ4WRI7RREE/, undefined
+Fetching: https://assets.wor.jp/rss/rdf/bloomberg/top.rdf
+太陽ＨＤ佐藤社長、取締役再任は否決－大株主が相次ぎ反対を表明, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY12P0T0G1KW00?srnd=cojp-v2, undefined
+トランプ氏「イラン猶予２週間が限度」－イスラエルの攻撃停止は困難, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67LHT0AFB400?srnd=cojp-v2, undefined
+アップル、ＡＩ検索のパープレキシティ買収を社内で検討－関係者, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6TLEDWLU6800?srnd=cojp-v2, undefined
+【米国市況】Ｓ＆Ｐ500種は続落、半導体に売り－ドル一時146円22銭, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67VADWRGG000?srnd=cojp-v2, undefined
+個人株主いらっしゃい、議決権行使へ企業が一計－ポイント付与や土産, https://www.bloomberg.co.jp/news/articles/2025-06-21/SXXB3TT1UM0W00?srnd=cojp-v2, undefined
+トヨタ、米国で７月から値上げ－引き上げ幅は平均約３万9000円に, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6JNPT0AFB400?srnd=cojp-v2, undefined
+ウォラーＦＲＢ理事、早ければ７月に利下げの可能性ある, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5NMCDWLU6800?srnd=cojp-v2, undefined
+トランプ氏、ＦＲＢ議長の解任を再び示唆－「愚か者」と繰り返し酷評, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6E4FT0AFB400?srnd=cojp-v2, undefined
+日鉄のＵＳスチール買収、成立信じ続けたサード・ポイントなどに利益, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY66OWT1UM0W00?srnd=cojp-v2, undefined
+中国レアアース輸出なお停滞、トランプ氏「先行」供給発言と食い違い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY61FLT1UM0W00?srnd=cojp-v2, undefined
+サンフランシスコ連銀総裁、次の利下げは今秋の可能性が高い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY68RXT0AFB400?srnd=cojp-v2, undefined
+日英伊の次期戦闘機合弁会社「エッジウィング」が設立 (20日), https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6GWJT0AFB400?srnd=cojp-v2, undefined
+米移民取り締まりで「異常な光景」－萎縮した労働者、職場から消える, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5MQST0AFB400?srnd=cojp-v2, undefined
+イランがホルムズ海峡を封鎖した場合の影響は－QuickTake, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4JOXDWLU6800?srnd=cojp-v2, undefined
+【コラム】日本の「たたき売り」防げ、Ｍ＆Ａ活況時代－リーディー, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4L19T1UM0W00?srnd=cojp-v2, undefined
+トヨタ、米国で７月から値上げ－引き上げ幅は平均約３万9000円に, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6JNPT0AFB400?srnd=cojp-v2, undefined
+日英伊の次期戦闘機合弁会社「エッジウィング」が設立 (20日), https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6GWJT0AFB400?srnd=cojp-v2, undefined
+サンフランシスコ連銀総裁、次の利下げは今秋の可能性が高い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY68RXT0AFB400?srnd=cojp-v2, undefined
+中国レアアース輸出なお停滞、トランプ氏「先行」供給発言と食い違い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY61FLT1UM0W00?srnd=cojp-v2, undefined
+テスラが７月にインドでショールーム開設、中国製ＥＶ投入へ－関係者, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5YEDT0AFB400?srnd=cojp-v2, undefined
+トヨタ、米国で７月から値上げ－引き上げ幅は平均約３万9000円に, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6JNPT0AFB400?srnd=cojp-v2, undefined
+個人株主いらっしゃい、議決権行使へ企業が一計－ポイント付与や土産, https://www.bloomberg.co.jp/news/articles/2025-06-21/SXXB3TT1UM0W00?srnd=cojp-v2, undefined
+日英伊の次期戦闘機合弁会社「エッジウィング」が設立 (20日), https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6GWJT0AFB400?srnd=cojp-v2, undefined
+トランプ氏、ＦＲＢ議長の解任を再び示唆－「愚か者」と繰り返し酷評, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6E4FT0AFB400?srnd=cojp-v2, undefined
+日鉄のＵＳスチール買収、成立信じ続けたサード・ポイントなどに利益, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY66OWT1UM0W00?srnd=cojp-v2, undefined
+【米国市況】Ｓ＆Ｐ500種は続落、半導体に売り－ドル一時146円22銭, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67VADWRGG000?srnd=cojp-v2, undefined
+サンフランシスコ連銀総裁、次の利下げは今秋の可能性が高い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY68RXT0AFB400?srnd=cojp-v2, undefined
+中国レアアース輸出なお停滞、トランプ氏「先行」供給発言と食い違い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY61FLT1UM0W00?srnd=cojp-v2, undefined
+米料理界のアカデミー賞、25年はコロラド州ボルダーの名店が受賞, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY12QLT1UM0W00?srnd=cojp-v2, undefined
+個人株主いらっしゃい、議決権行使へ企業が一計－ポイント付与や土産, https://www.bloomberg.co.jp/news/articles/2025-06-21/SXXB3TT1UM0W00?srnd=cojp-v2, undefined
+トランプ氏、ＦＲＢ議長の解任を再び示唆－「愚か者」と繰り返し酷評, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6E4FT0AFB400?srnd=cojp-v2, undefined
+【米国市況】Ｓ＆Ｐ500種は続落、半導体に売り－ドル一時146円22銭, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67VADWRGG000?srnd=cojp-v2, undefined
+トランプ政権、半導体の対中規制強化を検討との報道－関連株下落, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5V2IDWRGG000?srnd=cojp-v2, undefined
+ウォラーＦＲＢ理事、早ければ７月に利下げの可能性ある, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5NMCDWLU6800?srnd=cojp-v2, undefined
+フィラデルフィア連銀製造業指数、６月はマイナス4.0－予想を下回る, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5MWYGFA9Z400?srnd=cojp-v2, undefined
+トヨタ、米国で７月から値上げ－引き上げ幅は平均約３万9000円に, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6JNPT0AFB400?srnd=cojp-v2, undefined
+サンフランシスコ連銀総裁、次の利下げは今秋の可能性が高い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY68RXT0AFB400?srnd=cojp-v2, undefined
+ＦＲＢ「労働市場は均衡状態」、移民の減速に言及－金融政策報告, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5U68DWLU6800?srnd=cojp-v2, undefined
+レイオフされた米政府系コンサルタント、縮小する求人市場に殺到, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5PUYDWRGG000?srnd=cojp-v2, undefined
+植田日銀総裁、経済・物価見通し実現なら利上げで緩和度合い調整, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4UJYT0G1KW00?srnd=cojp-v2, undefined
+中国、鉄鉱石輸入価格の変動抑制に成功－巨大企業設立から３年, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4OHAT0G1KW00?srnd=cojp-v2, undefined
+イランが監視カメラに不正接続、対イスラエル攻撃で諜報－脆弱性突く, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5V62T0G1KW00?srnd=cojp-v2, undefined
+自分の遺伝子受け継ぐ子ども100人超に遺産残す－テレグラムＣＥＯ, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4FZHDWLU6800?srnd=cojp-v2, undefined
+アルファウェーブ大株主の連続起業家に345億円、クアルコムが買収で, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4T7HDWRGG000?srnd=cojp-v2, undefined
+イラン、国内でインターネット遮断－イスラエルのサイバー攻撃に対応, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY4JO7DWX2PS00?srnd=cojp-v2, undefined
+グーグルへの巨額制裁金は正当、ＥＵ司法裁法務官が欧州委の判断支持, https://www.bloomberg.co.jp/news/articles/2025-06-19/SY3GRZT0AFB400?srnd=cojp-v2, undefined
+アマゾンが一部社員に「転居か退職か」通告、静かな人員削減の懸念, https://www.bloomberg.co.jp/news/articles/2025-06-19/SY2MECT0G1KW00?srnd=cojp-v2, undefined
+Fetching: https://assets.wor.jp/rss/rdf/bloomberg/economy.rdf
+フィラデルフィア連銀製造業指数、６月はマイナス4.0－予想を下回る, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY5MWYGFA9Z400?srnd=cojp-v2-economy, undefined
+米新規失業保険申請は若干減少、８カ月ぶり高水準近辺にとどまる, https://www.bloomberg.co.jp/news/articles/2025-06-18/SY1XNIDWRGG000?srnd=cojp-v2-economy, undefined
+米住宅着工件数、５年ぶりの低水準－集合住宅の大幅減少が響く, https://www.bloomberg.co.jp/news/articles/2025-06-18/SY1XMBDWX2PS00?srnd=cojp-v2-economy, undefined
+米住宅着工件数、５月は年換算125.6万戸に減少－予想を下回る, https://www.bloomberg.co.jp/news/articles/2025-06-18/SY1XK0GQITJ400?srnd=cojp-v2-economy, undefined
+米新規失業保険申請件数、前週比0.5万件減の24.5万件－予想24.5万件, https://www.bloomberg.co.jp/news/articles/2025-06-18/SY1XJFGQD79C00?srnd=cojp-v2-economy, undefined
+英インフレ率、５月は3.4％－約１年以上ぶりの高水準を維持, https://www.bloomberg.co.jp/news/articles/2025-06-18/SY1FO0T0G1KW00?srnd=cojp-v2-economy, undefined
+米住宅建設業者の業況感、2022年以来の低水準－高金利や景気不安重し, https://www.bloomberg.co.jp/news/articles/2025-06-17/SY06XTDWLU6800?srnd=cojp-v2-economy, undefined
+Fetching: https://assets.wor.jp/rss/rdf/bloomberg/overseas.rdf
+アップル、ＡＩ検索のパープレキシティ買収を社内で検討－関係者, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6TLEDWLU6800?srnd=cojp-v2-overseas, undefined
+トランプ氏、ＦＲＢ議長の解任を再び示唆－「愚か者」と繰り返し酷評, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6E4FT0AFB400?srnd=cojp-v2-overseas, undefined
+米料理界のアカデミー賞、25年はコロラド州ボルダーの名店が受賞, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY12QLT1UM0W00?srnd=cojp-v2-overseas, undefined
+日鉄のＵＳスチール買収、成立信じ続けたサード・ポイントなどに利益, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY66OWT1UM0W00?srnd=cojp-v2-overseas, undefined
+【米国市況】Ｓ＆Ｐ500種は続落、半導体に売り－ドル一時146円22銭, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67VADWRGG000?srnd=cojp-v2-overseas, undefined
+サンフランシスコ連銀総裁、次の利下げは今秋の可能性が高い, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY68RXT0AFB400?srnd=cojp-v2-overseas, undefined
+トランプ氏「イラン猶予２週間が限度」－イスラエルの攻撃停止は困難, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67LHT0AFB400?srnd=cojp-v2-overseas, undefined
+Fetching: https://assets.wor.jp/rss/rdf/bloomberg/domestic.rdf
+太陽ＨＤ佐藤社長、取締役再任は否決－大株主が相次ぎ反対を表明, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY12P0T0G1KW00?srnd=cojp-v2-domestic, undefined
+トヨタ、米国で７月から値上げ－引き上げ幅は平均約３万9000円に, https://www.bloomberg.co.jp/news/articles/2025-06-21/SY6JNPT0AFB400?srnd=cojp-v2-domestic, undefined
+個人株主いらっしゃい、議決権行使へ企業が一計－ポイント付与や土産, https://www.bloomberg.co.jp/news/articles/2025-06-21/SXXB3TT1UM0W00?srnd=cojp-v2-domestic, undefined
+日英伊の次期戦闘機合弁会社「エッジウィング」が設立 (20日), https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6GWJT0AFB400?srnd=cojp-v2-domestic, undefined
+トランプ氏、ＦＲＢ議長の解任を再び示唆－「愚か者」と繰り返し酷評, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY6E4FT0AFB400?srnd=cojp-v2-domestic, undefined
+日鉄のＵＳスチール買収、成立信じ続けたサード・ポイントなどに利益, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY66OWT1UM0W00?srnd=cojp-v2-domestic, undefined
+【米国市況】Ｓ＆Ｐ500種は続落、半導体に売り－ドル一時146円22銭, https://www.bloomberg.co.jp/news/articles/2025-06-20/SY67VADWRGG000?srnd=cojp-v2-domestic, undefined
+RSS Fetcher Finished
+Done in 1.83s.
